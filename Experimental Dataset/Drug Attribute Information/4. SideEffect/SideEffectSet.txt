@@ -1,0 +1,3750 @@
+0	Gastrointestinal pain
+1	Abdominal pain
+2	Anaphylactic shock
+3	Anaemia
+4	Angina pectoris
+5	Anxiety
+6	Arteriovenous fistula
+7	Pneumothorax
+8	Atelectasis
+9	Atrial fibrillation
+10	Back pain
+11	Coagulopathy
+12	Cardiac tamponade
+13	Chest pain
+14	Infection
+15	Compartment syndrome
+16	Confusional state
+17	Feeling abnormal
+18	Connective tissue disorder
+19	Contusion
+20	Coronary artery thrombosis
+21	Dyspepsia
+22	Dyspnoea
+23	Ecchymosis
+24	Epistaxis
+25	Rash
+26	Dermatitis
+27	Eye disorder
+28	Eye haemorrhage
+29	VIIth nerve paralysis
+30	Body temperature increased
+31	Gastrointestinal disorder
+32	Gastrointestinal haemorrhage
+33	Gingival bleeding
+34	Headache
+35	Cardiac disorder
+36	Haematemesis
+37	Haematoma
+38	Haematuria
+39	Pericardial haemorrhage
+40	Peritoneal haemorrhage
+41	Haemoptysis
+42	Haemorrhage
+43	Haemoglobin
+44	Hypersensitivity
+45	Hypertension
+46	Hypotension
+47	Immune system disorder
+48	Mediastinal disorder
+49	Melaena
+50	Myocardial infarction
+51	Acute coronary syndrome
+52	Nausea
+53	Nervous system disorder
+54	Nervousness
+55	Tension
+56	Oliguria
+57	Pain
+58	Pelvic pain
+59	Petechiae
+60	Pleural effusion
+61	Post procedural haemorrhage
+62	Pulmonary oedema
+63	Renal failure
+64	Reperfusion injury
+65	Shock
+66	Dizziness
+67	Loss of consciousness
+68	Syncope
+69	Thrombocytopenia
+70	Thrombosis
+71	Urethral disorder
+72	Urinary tract disorder
+73	Urticaria
+74	Angiopathy
+75	Ventricular fibrillation
+76	Ventricular tachycardia
+77	Vomiting
+78	Urinary retention
+79	Injection site haemorrhage
+80	Haemorrhage intracranial
+81	Pulmonary haemorrhage
+82	Retroperitoneal haemorrhage
+83	Injection site reaction
+84	Injection site pain
+85	Vascular anomaly
+86	Haemoglobin decreased
+87	Skin disorder
+88	Fatal outcomes
+89	Oesophageal haemorrhage
+90	Groin pain
+91	Sepsis
+92	Ear haemorrhage
+93	Retroperitoneal haematoma
+94	Increased tendency to bruise
+95	Anal haemorrhage
+96	Bradycardia
+97	Electrocardiogram ST segment elevation
+98	Surgery
+99	Pharyngeal haemorrhage
+100	Drug interaction
+101	Blood and lymphatic system disorders
+102	Ear and labyrinth disorders
+103	International normalised ratio increased
+104	Cerebral ischaemia
+105	Insomnia
+106	Puncture site reaction
+107	Injection site discomfort
+108	Vascular pseudoaneurysm
+109	Thrombosis in device
+110	Vessel puncture site haematoma
+111	Abdominal distension
+112	Abscess
+113	Alopecia
+114	Decreased appetite
+115	Anosmia
+116	Arrhythmia
+117	Arthralgia
+118	Musculoskeletal discomfort
+119	Arthritis
+120	Asthenia
+121	Asthma
+122	Mental disorder
+123	Blister
+124	Dermatitis bullous
+125	Breast disorder
+126	Bronchitis
+127	Carotid bruit
+128	Transient ischaemic attack
+129	Cervix disorder
+130	Pleuritic pain
+131	Colitis
+132	Constipation
+133	Cough
+134	Disturbance in sexual arousal
+135	Libido decreased
+136	Dysphagia
+137	Depression
+138	Diabetes mellitus
+139	Diarrhoea
+140	Dysmenorrhoea
+141	Dysuria
+142	Oedema
+143	Erythema multiforme
+144	Fatigue
+145	Feminisation acquired
+146	Fibromyalgia
+147	Flatulence
+148	Flushing
+149	Multiple fractures
+150	Fracture
+151	Gastroenteritis
+152	Gingivitis
+153	Goitre
+154	Gynaecomastia
+155	Hair disorder
+156	Hearing impaired
+157	Cardiac failure congestive
+158	Cardiac murmur
+159	Hepatitis
+160	Hepatomegaly
+161	Inguinal hernia
+162	Herpes zoster
+163	Hirsutism
+164	Hyperhidrosis
+165	Hypertrophy
+166	Hypoglycaemia
+167	Hypoproteinaemia
+168	Incontinence
+169	Inflammation
+170	Influenza
+171	Irritability
+172	Ischaemia
+173	Osteoarthritis
+174	Arthropathy
+175	Hyperkeratosis
+176	Lethargy
+177	Menstrual disorder
+178	Muscle spasms
+179	Muscle atrophy
+180	Myopathy
+181	Musculoskeletal pain
+182	Nail disorder
+183	Neoplasm
+184	Night sweats
+185	Nodule
+186	Sensory loss
+187	Hypoaesthesia
+188	Nocturia
+189	Obesity
+190	Ophthalmoplegia
+191	IIIrd nerve paralysis
+192	Pain in extremity
+193	Pallor
+194	Palpitations
+195	Paraesthesia
+196	Penis disorder
+197	Peptic ulcer
+198	Neuropathy peripheral
+199	Personality disorder
+200	Pharyngitis
+201	Phlebitis
+202	Pituitary tumour benign
+203	Pituitary haemorrhage
+204	Pleural rub
+205	Pneumonia
+206	Pruritus
+207	Puberty
+208	Precocious puberty
+209	Pulmonary embolism
+210	Pulmonary fibrosis
+211	Vascular purpura
+212	Purpura
+213	Pyuria
+214	Rales
+215	Anal fistula
+216	Rectal polyp
+217	Rhinitis
+218	Rhonchi
+219	Seborrhoeic dermatitis
+220	Convulsion
+221	Pharyngitis streptococcal
+222	Sinusitis
+223	Spinal osteoarthritis
+224	Cerebrovascular accident
+225	Swelling
+226	Tachycardia
+227	Taste disorders
+228	Tenosynovitis
+229	Testicular pain
+230	Thyroid neoplasm
+231	Tinnitus
+232	Tremor
+233	Ulcer
+234	Erythema
+235	Pollakiuria
+236	Urinary incontinence
+237	Urinary tract infection
+238	Vaginal infection
+239	Vaginal inflammation
+240	Vasodilation procedure
+241	Vertigo
+242	Weight increased
+243	Wheezing
+244	Spinal fracture
+245	Peripheral vascular disorder
+246	Chills
+247	Skin odour abnormal
+248	Micturition urgency
+249	Mood swings
+250	Affect lability
+251	Oedema peripheral
+252	Hepatic function abnormal
+253	Antinuclear antibody positive
+254	Blood urea increased
+255	Blood creatinine increased
+256	Swelling face
+257	Injection site swelling
+258	Red blood cell sedimentation rate increased
+259	Growth retardation
+260	Skin hypertrophy
+261	Injury
+262	Bone pain
+263	Hyporeflexia
+264	Hyperreflexia
+265	Dry skin
+266	Sinus congestion
+267	Skin striae
+268	Testicular atrophy
+269	Malnutrition
+270	Photosensitivity reaction
+271	Leukoderma
+272	Musculoskeletal stiffness
+273	Vaginal discharge
+274	Malaise
+275	Discomfort
+276	Ill-defined disorder
+277	Myalgia
+278	Burning sensation
+279	Chest discomfort
+280	Increased appetite
+281	Hallucination, auditory
+282	Tenderness
+283	Injection site abscess sterile
+284	Euphoric mood
+285	Lung infiltration
+286	Breath sounds abnormal
+287	Prostatic pain
+288	Furuncle
+289	Erectile dysfunction
+290	Breast tenderness
+291	Induration
+292	Extrasystoles
+293	Pelvic fibrosis
+294	Pituitary infarction
+295	Joint effusion
+296	Vision blurred
+297	Prostate cancer
+298	Cold sweat
+299	Sticky skin
+300	Crying
+301	Tearfulness
+302	Hyperkinesia
+303	Agitation
+304	Bladder spasm
+305	Bladder pain
+306	Red blood cell count decreased
+307	Injection site induration
+308	Paralysis
+309	Injection site haematoma
+310	Abdominal discomfort
+311	Hypercalcaemia
+312	Gait disturbance
+313	Hot flush
+314	Menopausal symptoms
+315	Metastases to spine
+316	Skin cancer
+317	Acne
+318	Aortic aneurysm rupture
+319	White blood cell count decreased
+320	Sleep disorder
+321	Blood testosterone increased
+322	Injection site warmth
+323	Injection site inflammation
+324	Bone density decreased
+325	Penile swelling
+326	Somnolence
+327	Vaginal haemorrhage
+328	Loss of libido
+329	Amblyopia
+330	Amenorrhoea
+331	Bladder neoplasm
+332	Blood pressure abnormal
+333	Bone disorder
+334	Breast swelling
+335	Cystitis noninfective
+336	Cystitis
+337	Cyst
+338	Drug hypersensitivity
+339	Endocrine disorder
+340	Extravasation
+341	Gout
+342	Cardiac failure
+343	Herpes simplex
+344	Hypercholesterolaemia
+345	Hyperglycaemia
+346	Hyperlipidaemia
+347	Libido increased
+348	Infarction
+349	Jaundice
+350	Leukopenia
+351	Chronic obstructive pulmonary disease
+352	Bronchial hyperreactivity
+353	Lymphoedema
+354	Breast pain
+355	Menorrhagia
+356	Hypertonia
+357	Osteoporosis
+358	Ovarian cyst
+359	Pituitary tumour
+360	Polyp
+361	Proctitis
+362	Psychotic disorder
+363	Spinal cord compression
+364	Thirst
+365	Thrombophlebitis
+366	Upper respiratory tract infection
+367	Ureteric obstruction
+368	Uterine haemorrhage
+369	Varicose vein
+370	Vulvovaginitis
+371	Dry mouth
+372	Ovarian hyperstimulation syndrome
+373	Sudden cardiac death
+374	Deep vein thrombosis
+375	Migraine
+376	Application site reaction
+377	Breast atrophy
+378	High density lipoprotein decreased
+379	Adverse reaction
+380	Skin discolouration
+381	Uterine leiomyoma
+382	Bone cancer metastatic
+383	Mental disability
+384	Thinking abnormal
+385	Galactorrhoea
+386	Condition aggravated
+387	Muscle mass
+388	Blood testosterone decreased
+389	Vulvovaginal dryness
+390	Rectal haemorrhage
+391	Glucose tolerance impaired
+392	Dry eye
+393	Injection site irritation
+394	Low density lipoprotein increased
+395	Sexual dysfunction
+396	Lower urinary tract symptoms
+397	Blood uric acid increased
+398	Hyperuricaemia
+399	Febrile neutropenia
+400	Amnesia
+401	Tumour flare
+402	Tumour pain
+403	Lupus-like syndrome
+404	Blood pressure fluctuation
+405	Dyspareunia
+406	Blood cholesterol increased
+407	Renal impairment
+408	Breast enlargement
+409	Metrorrhagia
+410	Conjunctivitis
+411	Emotional disorder
+412	Hyponatraemia
+413	Nasal congestion
+414	Respiratory tract infection
+415	Water intoxication
+416	Aspartate aminotransferase increased
+417	Acute myocardial infarction
+418	Oropharyngeal discomfort
+419	Oropharyngeal pain
+420	Depressed mood
+421	Painful respiration
+422	Fluid retention
+423	Eye oedema
+424	Aspartate aminotransferase normal
+425	Nasal discomfort
+426	Aggression
+427	Balanitis
+428	Coma
+429	Dehydration
+430	Dermatitis atopic
+431	Enuresis
+432	Hallucination
+433	Hypernatraemia
+434	Hypokalaemia
+435	Orthostatic hypotension
+436	Inappropriate antidiuretic hormone secretion
+437	Nightmare
+438	Disturbance in attention
+439	Abnormal behaviour
+440	Memory impairment
+441	Hepatic enzyme increased
+442	Influenza like illness
+443	Depressed level of consciousness
+444	Altered state of consciousness
+445	Bladder and urethral symptoms
+446	Visual impairment
+447	Angioedema
+448	Atrial flutter
+449	Bacteraemia
+450	Candida infection
+451	Oral candidiasis
+452	Vulvovaginal candidiasis
+453	Vulvovaginal mycotic infection
+454	Cellulitis
+455	Cholangitis
+456	Crohn's disease
+457	Drug eruption
+458	Dysgeusia
+459	Dyskinesia
+460	Eczema
+461	Eosinophilia
+462	Glossitis
+463	Cardiac arrest
+464	Hyperkalaemia
+465	Renal failure acute
+466	Leukocytosis
+467	Lymphatic disorder
+468	Mediastinitis
+469	Musculoskeletal disorder
+470	Fungal infection
+471	Myositis
+472	Osteomyelitis
+473	Proteinuria
+474	Protein urine present
+475	Pulmonary eosinophilia
+476	Rhabdomyolysis
+477	Stevens-Johnson syndrome
+478	Stomatitis
+479	Supraventricular tachycardia
+480	Fungaemia
+481	Urosepsis
+482	Blood creatine phosphokinase increased
+483	Hypomagnesaemia
+484	Blood lactate dehydrogenase increased
+485	Liver function test abnormal
+486	Muscular weakness
+487	Blood alkaline phosphatase increased
+488	Prothrombin level increased
+489	Rash pustular
+490	Alanine aminotransferase increased
+491	Miliaria
+492	Rash vesicular
+493	Eye irritation
+494	Gingival pain
+495	Intestinal infarction
+496	Hepatobiliary disease
+497	Staphylococcal infection
+498	Alcoholic pancreatitis
+499	Arrhythmia supraventricular
+500	Transaminases increased
+501	Pruritus generalised
+502	Lymphadenopathy
+503	Hypoaesthesia oral
+504	Feeling jittery
+505	Monoparesis
+506	Thrombocytosis
+507	Infestation
+508	Injection site erythema
+509	Oropharyngeal swelling
+510	Blood bicarbonate increased
+511	Laryngeal pain
+512	Urinary tract infection fungal
+513	Blood phosphorus increased
+514	Staphylococcal bacteraemia
+515	Epigastric discomfort
+516	Eosinophilic pneumonia
+517	Infusion site reactions
+518	Electrolyte imbalance
+519	Infusion site reaction
+520	Pancreatitis acute
+521	Rheumatoid arthritis
+522	Bacterial infection
+523	Bronchospasm
+524	Bursitis
+525	Neoplasm malignant
+526	Cardiovascular disorder
+527	Cerebellar ataxia
+528	Cholestasis
+529	Deafness
+530	Joint dislocation
+531	Ear disorder
+532	Enanthema
+533	Eructation
+534	Oesophagitis
+535	Folliculitis
+536	Gastritis
+537	Gingival disorder
+538	Gingival hyperplasia
+539	Gingival hypertrophy
+540	Haemolytic uraemic syndrome
+541	Hiccups
+542	Hodgkin's disease lymphocyte predominance type stage unspecified
+543	Hodgkin's disease lymphocyte depletion type stage unspecified
+544	Hodgkin's disease
+545	Hyperbilirubinaemia
+546	Hyperaesthesia
+547	Hypertrichosis
+548	Hypertriglyceridaemia
+549	Blood triglycerides increased
+550	Salivary gland enlargement
+551	Hypotrichosis
+552	Nephropathy
+553	Renal tubular necrosis
+554	Progressive multifocal leukoencephalopathy
+555	Non-Hodgkin's lymphoma
+556	Lymphoma
+557	X-linked lymphoproliferative syndrome
+558	Lymphoproliferative disorder
+559	Obstruction
+560	Pancreatitis
+561	Optic neuritis
+562	Papilloedema
+563	Paresis
+564	Polyuria
+565	Urine output increased
+566	Benign intracranial hypertension
+567	Psoriasis
+568	Thrombotic thrombocytopenic purpura
+569	Pyelonephritis
+570	Acute respiratory distress syndrome
+571	Skin infection
+572	Skin ulcer
+573	Gastric ulcer
+574	Tongue disorder
+575	Tonsillitis
+576	Tooth disorder
+577	Upper gastrointestinal haemorrhage
+578	Vestibular disorder
+579	Viral infection
+580	Weight decreased
+581	Wound
+582	Encephalopathy
+583	Hepatic failure
+584	Synovial cyst
+585	Cataract
+586	Renal abscess
+587	Hypocholesterolaemia
+588	Hepatocellular injury
+589	Liver injury
+590	Eye pain
+591	Tendon disorder
+592	Polyneuropathy
+593	Pustular psoriasis
+594	Lacrimation increased
+595	Blindness cortical
+596	Traumatic liver injury
+597	Red blood cell disorders
+598	Microangiopathic haemolytic anaemia
+599	Abdominal pain upper
+600	Hyperamylasaemia
+601	Disorientation
+602	Hallucination, visual
+603	Feeling hot
+604	Muscle contractions involuntary
+605	Hepatotoxicity
+606	Peripheral ischaemia
+607	Urine abnormality
+608	Urine analysis abnormal
+609	Pharyngeal oedema
+610	Swollen tongue
+611	Infection susceptibility increased
+612	Interstitial lung disease
+613	Eye swelling
+614	Azotaemia
+615	Atrophy
+616	Anaphylactoid reaction
+617	Sensation of foreign body
+618	Systemic mycosis
+619	Heart sounds abnormal
+620	Nephropathy toxic
+621	Erythrodermic psoriasis
+622	Thrombocytopenic purpura
+623	Graft loss
+624	Renal graft loss
+625	Toxicity to various agents
+626	Polyomavirus infections
+627	Autonomic neuropathy
+628	Pigmentation disorder
+629	Transplant failure
+630	Fibroadenoma of breast
+631	Polyomavirus-associated nephropathy
+632	Conjunctival hyperaemia
+633	Thrombotic microangiopathy
+634	Posterior reversible encephalopathy syndrome
+635	Cholecystitis
+636	Cholelithiasis
+637	Hypothyroidism
+638	Intestinal obstruction
+639	Jaundice cholestatic
+640	Pregnancy
+641	Steatorrhoea
+642	Hepatitis cholestatic
+643	Abdominal tenderness
+644	Blood thyroid stimulating hormone decreased
+645	Hepatitis acute
+646	Thyroid disorder
+647	Thyroxine free decreased
+648	Adrenal insufficiency
+649	Hypochromic anaemia
+650	Appendicitis
+651	Breast feeding
+652	Basal cell carcinoma
+653	Acne cystic
+654	Diabetes insipidus
+655	Hepatic steatosis
+656	Gallbladder disorder
+657	Haemorrhoids
+658	Hernia
+659	Hypogonadism
+660	Breast mass
+661	Malabsorption
+662	Neuralgia
+663	Neuritis
+664	Oligomenorrhoea
+665	Osteonecrosis
+666	Ear infection
+667	Otitis media
+668	Polymenorrhoea
+669	Prostatic disorder
+670	Prostatitis
+671	Pulmonary mass
+672	Anorectal disorder
+673	Status asthmaticus
+674	Mouth ulceration
+675	Vulvovaginal pruritus
+676	Sinus bradycardia
+677	Glucose tolerance decreased
+678	Otorrhoea
+679	Abnormal faeces
+680	Muscle twitching
+681	Anorectal discomfort
+682	Rectal tenesmus
+683	Proctalgia
+684	Intraocular pressure increased
+685	Faeces discoloured
+686	Iron deficiency
+687	Gallbladder polyp
+688	Blood growth hormone increased
+689	Nephrolithiasis
+690	Renal pain
+691	Local reaction
+692	Nasopharyngitis
+693	Paranoia
+694	Breast neoplasm
+695	Polycythaemia vera
+696	Coordination abnormal
+697	Albuminuria
+698	Calcinosis
+699	Haemolysis
+700	Hypercalciuria
+701	Nephrocalcinosis
+702	High turnover osteopathy
+703	Brown tumour
+704	Polydipsia
+705	Apathy
+706	Flat affect
+707	Photophobia
+708	Hyperphosphataemia
+709	Neutrophil count increased
+710	Hypermagnesaemia
+711	Sensory disturbance
+712	Calcification metastatic
+713	Haematocrit increased
+714	Lip swelling
+715	Skin burning sensation
+716	Laboratory test abnormal
+717	Haemoglobin increased
+718	Calcium intoxication
+719	Poisoning
+720	Skin discomfort
+721	Rhinorrhoea
+722	Renal failure chronic
+723	Cyanosis
+724	Throat tightness
+725	Acidosis
+726	Dwarfism
+727	Mental retardation
+728	Vascular calcification
+729	Hypervitaminosis D
+730	Vitamin B12 deficiency
+731	Judgement impaired
+732	Sensitisation
+733	Haemolytic anaemia
+734	Dermatomyositis
+735	Diplopia
+736	Endophthalmitis
+737	Panophthalmitis
+738	Toxic epidermal necrolysis
+739	Liver disorder
+740	Foetor hepaticus
+741	Myoglobin urine present
+742	Myoglobinuria
+743	Polymyalgia rheumatica
+744	Tracheobronchitis
+745	Vasculitis
+746	Gamma-glutamyltransferase increased
+747	Hepatic necrosis
+748	Dyslipidaemia
+749	Muscle swelling
+750	Cognitive disorder
+751	Systemic lupus erythematosus
+752	Facial paresis
+753	Hepatitis chronic active
+754	Drug reaction with eosinophilia and systemic symptoms
+755	Lung infection
+756	Peripheral nerve palsy
+757	Lenticular opacities
+758	Hepatocellular carcinoma
+759	Hepatic cancer
+760	Immune-mediated necrotising myopathy
+761	Agoraphobia
+762	Agranulocytosis
+763	Aplastic anaemia
+764	Anger
+765	Anuria
+766	Apnoea
+767	Ataxia
+768	Atrioventricular block
+769	Blepharitis
+770	Bruxism
+771	Neck pain
+772	Ulcerative keratitis
+773	Sudden death
+774	Delirium
+775	Delusion
+776	Dental caries
+777	Depersonalisation
+778	Dermatitis exfoliative
+779	Dysarthria
+780	Ear pain
+781	Electric shock
+782	Extrapyramidal disorder
+783	Faecal incontinence
+784	Gastrooesophageal reflux disease
+785	Glaucoma
+786	Glossodynia
+787	Breath odour
+788	Hemiplegia
+789	Herpes virus infection
+790	Dysphonia
+791	Hostility
+792	Hyperprolactinaemia
+793	Hyperventilation
+794	Hypochondriasis
+795	Hypomenorrhoea
+796	Conversion disorder
+797	Lacrimal disorder
+798	Lacrimal structural disorder
+799	Laryngospasm
+800	Laryngitis
+801	Menopause
+802	Hypotonia
+803	Muscle relaxant therapy
+804	Mutism
+805	Mydriasis
+806	Myoclonus
+807	Drug withdrawal syndrome neonatal
+808	Neuroleptic malignant syndrome
+809	Neurosis
+810	Pericarditis
+811	Porphyrin metabolism disorder
+812	Supraventricular extrasystoles
+813	Premenstrual syndrome
+814	Priapism
+815	Pulmonary infarction
+816	Henoch-Schonlein purpura
+817	Hyperacusis
+818	Retinal detachment
+819	Scotoma
+820	Salivary hypersecretion
+821	Ligament sprain
+822	Withdrawal syndrome
+823	Suicide attempt
+824	Tetany
+825	Toothache
+826	Torsade de pointes
+827	Torticollis
+828	Trismus
+829	Unintended pregnancy
+830	Micturition disorder
+831	Yawning
+832	Central nervous system neoplasm
+833	Intentional self-injury
+834	Self injurious behaviour
+835	Akinesia
+836	Stupor
+837	Depressive symptom
+838	Hypokinesia
+839	Drug withdrawal syndrome
+840	Haematospermia
+841	Nuchal rigidity
+842	Alcohol intolerance
+843	Gastrointestinal carcinoma
+844	Tongue discolouration
+845	Tongue oedema
+846	Mania
+847	Biliary colic
+848	Electrocardiogram QT prolonged
+849	Schizophreniform disorder
+850	Screaming
+851	Accommodation disorder
+852	Tendinous contracture
+853	Hangover
+854	Cardiac fibrillation
+855	Obsessive thoughts
+856	Obsessive rumination
+857	Anorgasmia
+858	Ejaculation delayed
+859	Abnormal dreams
+860	Suicidal ideation
+861	Somnolence neonatal
+862	Gastrointestinal ulcer
+863	Menstruation delayed
+864	Parkinsonism
+865	Major depression
+866	Peripheral coldness
+867	Phobia
+868	Akathisia
+869	Heart rate irregular
+870	Rash maculo-papular
+871	Electrocardiogram ST segment
+872	Homicidal ideation
+873	Feeling drunk
+874	Self-injurious ideation
+875	Face oedema
+876	Blood glucose increased
+877	Cardio-respiratory arrest
+878	Obstructive airways disorder
+879	Tardive dyskinesia
+880	Serotonin syndrome
+881	Administration site reaction
+882	Cardiomyopathy
+883	Hypersomnia
+884	Heart alternation
+885	Female sexual dysfunction
+886	Ileus
+887	Parosmia
+888	Embolism
+889	Obsessive-compulsive personality disorder
+890	Suicidal behaviour
+891	Activation syndrome
+892	Coronary artery disease
+893	Ageusia
+894	Ejaculation disorder
+895	Neutropenia
+896	Serum sickness
+897	Microcytic anaemia
+898	Acute interstitial pneumonitis
+899	Idiopathic pulmonary fibrosis
+900	Hypogeusia
+901	Dizziness postural
+902	Blood pressure increased
+903	Blood potassium increased
+904	Cerebrovascular disorder
+905	Pancytopenia
+906	Pemphigoid
+907	Pemphigus
+908	Renal artery stenosis
+909	Onycholysis
+910	Lower respiratory tract infection
+911	Myocardial ischaemia
+912	Acute hepatic failure
+913	Dermatitis psoriasiform
+914	Hypoperfusion
+915	Pancreatic enzymes increased
+916	Balance disorder
+917	Vascular stenosis
+918	Heart failure signs and symptoms
+919	Bilirubin conjugated increased
+920	Psychomotor skills impaired
+921	Ischaemic stroke
+922	Small bowel angioedema
+923	Gastrointestinal inflammation
+924	Antinuclear antibody increased
+925	Hyperadrenocorticism
+926	Capillary fragility
+927	Cushing's syndrome
+928	Eye infection
+929	Pleurisy
+930	Sneezing
+931	Dry throat
+932	Nasal septum perforation
+933	Respiratory tract congestion
+934	Pulmonary congestion
+935	Secondary adrenocortical insufficiency
+936	Throat irritation
+937	Ocular discomfort
+938	Cardiac output decreased
+939	Dermatitis contact
+940	Autonomic nervous system imbalance
+941	Subdural haematoma
+942	Hypothermia
+943	Body temperature decreased
+944	Meningitis
+945	Miosis
+946	Muscle spasticity
+947	Nystagmus
+948	Pneumonia aspiration
+949	Speech disorder
+950	Completed suicide
+951	Ventricular arrhythmia
+952	Drug ineffective
+953	Opisthotonus
+954	Respiratory rate decreased
+955	Retching
+956	Dysphoria
+957	Pulmonary function test decreased
+958	Respiratory depression
+959	Joint swelling
+960	Personality change
+961	Wound dehiscence
+962	Haematochezia
+963	Hypoxia
+964	Hypoventilation
+965	Respiratory failure
+966	Tourette's disorder
+967	Blood pressure systolic increased
+968	Tic
+969	Panic reaction
+970	Sleep terror
+971	Panic attack
+972	Colitis ischaemic
+973	Anhedonia
+974	Choreoathetosis
+975	Vasculitis cerebral
+976	Cardiac death
+977	Hyperpyrexia
+978	Psychomotor retardation
+979	Drug dependence
+980	Compulsions
+981	Aphthous stomatitis
+982	Aphasia
+983	Drug abuse
+984	Oral herpes
+985	Nicotine dependence
+986	Respiratory paralysis
+987	Motor dysfunction
+988	Pain in jaw
+989	Tobacco poisoning
+990	Nasal ulcer
+991	Oral discomfort
+992	Dependence
+993	Local swelling
+994	Tobacco withdrawal symptoms
+995	Gangrene
+996	Pulmonary hypertension
+997	Pericardial effusion
+998	Sleep apnoea syndrome
+999	Arterial spasm
+1000	Respiratory arrest
+1001	Anterograde amnesia
+1002	Disinhibition
+1003	Instillation site pain
+1004	Application site pain
+1005	Sedation
+1006	Brain oedema
+1007	Adjustment disorder
+1008	Respiratory alkalosis
+1009	Amyloidosis
+1010	Angina unstable
+1011	Anxiety disorder
+1012	Ascites
+1013	Aspergillus infection
+1014	Platelet disorder
+1015	Bronchial disorder
+1016	Bronchopneumonia
+1017	Thermal burn
+1018	Renal cell carcinoma
+1019	Cheilitis
+1020	Tongue coated
+1021	Decubitus ulcer
+1022	Gastrointestinal malformation
+1023	Disseminated intravascular coagulation
+1024	Drooling
+1025	Enteritis
+1026	Epididymitis
+1027	Epilepsy
+1028	Grand mal convulsion
+1029	Erythromelalgia
+1030	Exophthalmos
+1031	Face injury
+1032	Failure to thrive
+1033	Chronic fatigue syndrome
+1034	Faecalith
+1035	Faecaloma
+1036	Anal fissure
+1037	Fistula
+1038	Cardiac valve disease
+1039	Blood disorder
+1040	Haemorrhagic disorder
+1041	Genital herpes
+1042	Ophthalmic herpes simplex
+1043	Ophthalmic herpes zoster
+1044	Meningoencephalitis herpetic
+1045	Hordeolum
+1046	Hyperaemia
+1047	Hyperthyroidism
+1048	Hypocalcaemia
+1049	Hypovolaemic shock
+1050	Ichthyosis acquired
+1051	Ichthyosis
+1052	Infertility
+1053	Irritable bowel syndrome
+1054	Functional gastrointestinal disorder
+1055	Laryngeal oedema
+1056	Leukaemia
+1057	Plasma cell leukaemia
+1058	Listeriosis
+1059	Lung disorder
+1060	Lymphopenia
+1061	Mastoiditis
+1062	Megacolon
+1063	Encephalitis
+1064	Metabolic disorder
+1065	Oral disorder
+1066	Plasma cell myeloma
+1067	Plasmacytoma
+1068	Multi-organ failure
+1069	Mycosis fungoides
+1070	Nephritis
+1071	Optic nerve disorder
+1072	Ileus paralytic
+1073	Periodontitis
+1074	Peritonitis
+1075	Post herpetic neuralgia
+1076	Radiation injury
+1077	Radiculitis
+1078	Reflexes abnormal
+1079	Restless legs syndrome
+1080	Retinitis
+1081	Salivary gland disorder
+1082	Sciatica
+1083	Cardiogenic shock
+1084	Septic shock
+1085	Skin lesion
+1086	Temporomandibular joint syndrome
+1087	Testicular disorder
+1088	Toxoplasmosis
+1089	Tumour lysis syndrome
+1090	Venous insufficiency
+1091	Vitamin B complex deficiency
+1092	Laceration
+1093	Acute febrile neutrophilic dermatosis
+1094	Hypocapnia
+1095	Carbon dioxide decreased
+1096	Meningitis bacterial
+1097	Orthopnoea
+1098	Photopsia
+1099	Livedo reticularis
+1100	Hyperchloraemia
+1101	Hypochloraemia
+1102	Hypophosphataemia
+1103	Cystitis haemorrhagic
+1104	Epstein-Barr virus infection
+1105	Peripheral sensory neuropathy
+1106	Atrioventricular block complete
+1107	Corneal lesion
+1108	Enzyme abnormality
+1109	Impaired healing
+1110	Large intestine perforation
+1111	Portal vein thrombosis
+1112	Vulvitis
+1113	Vulval ulceration
+1114	Joint stiffness
+1115	Hyperviscosity syndrome
+1116	Rectal discharge
+1117	Disability
+1118	Dyspnoea exertional
+1119	Tachypnoea
+1120	Peripheral motor neuropathy
+1121	Neurotoxicity
+1122	Small intestinal obstruction
+1123	Mouth haemorrhage
+1124	Hepatic haemorrhage
+1125	Radiculopathy
+1126	Gastrointestinal obstruction
+1127	Epididymal tenderness
+1128	Genital pain
+1129	Frequent bowel movements
+1130	Skin induration
+1131	Ventricular dysfunction
+1132	Aplasia
+1133	Cutaneous vasculitis
+1134	Lip pain
+1135	Cardiac amyloidosis
+1136	Transfusion reaction
+1137	Cytomegalovirus hepatitis
+1138	Change of bowel habit
+1139	Skin mass
+1140	Papule
+1141	Mantle cell lymphoma
+1142	Duodenitis haemorrhagic
+1143	Platelet count decreased
+1144	Dysaesthesia
+1145	Joint injury
+1146	Eye discharge
+1147	Blindness
+1148	Large intestinal obstruction
+1149	Respiratory distress
+1150	Non-cardiac chest pain
+1151	Blood gases abnormal
+1152	Dementia
+1153	Poor peripheral circulation
+1154	Toxic skin eruption
+1155	Hydronephrosis
+1156	Affective disorder
+1157	Sinus arrest
+1158	Coronary artery insufficiency
+1159	Injection site phlebitis
+1160	Fluid overload
+1161	Hypovolaemia
+1162	Eyelid infection
+1163	Feeling of body temperature change
+1164	Vein discolouration
+1165	Haemorrhagic stroke
+1166	Cerebral haemorrhage
+1167	Jessner's lymphocytic infiltration
+1168	International normalised ratio abnormal
+1169	Blood glucose abnormal
+1170	Sensation of heaviness
+1171	Breast disorder female
+1172	Presyncope
+1173	C-reactive protein increased
+1174	Vestibular neuronitis
+1175	Asthenic conditions
+1176	Pulmonary alveolar haemorrhage
+1177	Dacryoadenitis acquired
+1178	Haemorrhage subcutaneous
+1179	Gastrointestinal motility disorder
+1180	Blood test abnormal
+1181	Peripheral embolism
+1182	Hepatic vein occlusion
+1183	Budd-Chiari syndrome
+1184	Venoocclusive liver disease
+1185	Gastrointestinal ulcer perforation
+1186	Device related infection
+1187	Cardiotoxicity
+1188	Tooth infection
+1189	General physical health deterioration
+1190	Anal sphincter atony
+1191	Pulmonary toxicity
+1192	Ear discomfort
+1193	Medical device complication
+1194	Urinary tract signs and symptoms
+1195	Catheter site pain
+1196	Ejection fraction decreased
+1197	Erythrosis
+1198	Peripheral sensorimotor neuropathy
+1199	Troponin I increased
+1200	Gastrointestinal toxicity
+1201	Gastric pH decreased
+1202	Lymphocytic infiltration
+1203	Urine output
+1204	Increased upper airway secretion
+1205	Brain stem syndrome
+1206	Dysacusis
+1207	Procedural pain
+1208	Blood uric acid abnormal
+1209	Gastritis haemorrhagic
+1210	Oropharyngeal blistering
+1211	Platelet aggregation increased
+1212	Upper-airway cough syndrome
+1213	Bladder irritation
+1214	Hypertonic bladder
+1215	Leukocytoclastic vasculitis
+1216	Deafness bilateral
+1217	Pulmonary arterial hypertension
+1218	Aortic aneurysm
+1219	Back injury
+1220	Bacteriuria
+1221	Biliary tract disorder
+1222	Bipolar disorder
+1223	Bipolar I disorder
+1224	Concussion
+1225	Breast cancer
+1226	Carpal tunnel syndrome
+1227	Musculoskeletal chest pain
+1228	Diverticulitis
+1229	Diverticulum
+1230	Dysthymic disorder
+1231	Dermoid cyst
+1232	Dermal cyst
+1233	Erysipelas
+1234	Eye injury
+1235	Eyelid disorder
+1236	Food poisoning
+1237	Seasonal allergy
+1238	Rhinitis seasonal
+1239	Head injury
+1240	Herpangina
+1241	Cerumen impaction
+1242	Labyrinthitis
+1243	Movement disorder
+1244	Ingrowing nail
+1245	Neck injury
+1246	Tubulointerstitial nephritis
+1247	Osteopenia
+1248	Otitis externa
+1249	Piloerection
+1250	Prurigo
+1251	Rectal prolapse
+1252	Rosacea
+1253	Sinus headache
+1254	Soft tissue injury
+1255	Sinus tachycardia
+1256	Tendonitis
+1257	Tendon injury
+1258	Tracheitis
+1259	Wound infection
+1260	Helicobacter infection
+1261	Muscle strain
+1262	Urogenital disorder
+1263	Essential hypertension
+1264	Pyelonephritis chronic
+1265	Acute sinusitis
+1266	Plantar fasciitis
+1267	Amylase increased
+1268	Urinary hesitation
+1269	Viral diarrhoea
+1270	Joint crepitation
+1271	Vascular insufficiency
+1272	Abdominal pain lower
+1273	Menometrorrhagia
+1274	Derealisation
+1275	Visual acuity reduced
+1276	Vascular pain
+1277	Drug tolerance
+1278	Productive cough
+1279	Vaginal cyst
+1280	Strangury
+1281	Wound haemorrhage
+1282	Mammogram abnormal
+1283	Back disorder
+1284	Gastroduodenitis
+1285	Eustachian tube disorder
+1286	Blood bilirubin increased
+1287	Benign breast neoplasm
+1288	Muscle injury
+1289	Prostatomegaly
+1290	Red blood cell count increased
+1291	Ligament injury
+1292	Wrist fracture
+1293	Hand fracture
+1294	Nasal oedema
+1295	Tooth abscess
+1296	Pruritus genital
+1297	Stress
+1298	Electrocardiogram abnormal
+1299	Duodenal ulcer
+1300	Blood potassium abnormal
+1301	Monocyte count increased
+1302	White blood cells urine positive
+1303	Abscess limb
+1304	Blood sodium increased
+1305	Dyssomnia
+1306	Limb injury
+1307	Tinea pedis
+1308	Haematocrit decreased
+1309	Scleral haemorrhage
+1310	White blood cell count increased
+1311	Ear congestion
+1312	Arthropod bite
+1313	Blood cholesterol abnormal
+1314	Neutrophil count decreased
+1315	Lymphocyte count increased
+1316	Blood potassium decreased
+1317	Lymphocyte count decreased
+1318	Alanine aminotransferase decreased
+1319	Aspartate aminotransferase decreased
+1320	Lip blister
+1321	Protein total decreased
+1322	Food aversion
+1323	Respiratory tract infection viral
+1324	Postoperative wound complication
+1325	Band neutrophil count increased
+1326	Photodermatosis
+1327	Red cell distribution width increased
+1328	Analgesic therapy
+1329	Mean platelet volume decreased
+1330	Gastrointestinal infection
+1331	Genitourinary tract infection
+1332	Excoriation
+1333	Thrombophlebitis superficial
+1334	Oral pain
+1335	Exostosis
+1336	Eosinophil count increased
+1337	Rhinitis allergic
+1338	Gastrointestinal tract irritation
+1339	Orthostatic intolerance
+1340	Blood calcium decreased
+1341	Pupils unequal
+1342	Asthenopia
+1343	Blepharospasm
+1344	Catatonia
+1345	Conjunctival disorder
+1346	Intermittent claudication
+1347	Iritis
+1348	Eye pruritus
+1349	Keratitis
+1350	Myasthenia gravis
+1351	Peyronie's disease
+1352	Refraction disorder
+1353	Periorbital oedema
+1354	Conjunctival oedema
+1355	Arterial thrombosis
+1356	Ocular hyperaemia
+1357	Emotional distress
+1358	Rash erythematous
+1359	Erythema of eyelid
+1360	Purpura non-thrombocytopenic
+1361	Punctate keratitis
+1362	Cardiac failure acute
+1363	Abnormal sensation in eye
+1364	Hypoaesthesia eye
+1365	Foreign body sensation in eyes
+1366	Eyelid margin crusting
+1367	Breast abscess
+1368	Vitreous disorder
+1369	Cryptococcosis
+1370	Immunodeficiency
+1371	Vaginal disorder
+1372	Alcohol abuse
+1373	Uterine spasm
+1374	Hypopnoea
+1375	Clonic convulsion
+1376	Culture negative
+1377	Acute generalised exanthematous pustulosis
+1378	Pathogen resistance
+1379	Dermatitis diaper
+1380	Humerus fracture
+1381	Peritonsillar abscess
+1382	Acute tonsillitis
+1383	Tympanic membrane disorder
+1384	Enterocolitis haemorrhagic
+1385	Hepatitis fulminant
+1386	Pseudomembranous colitis
+1387	Skin irritation
+1388	Skin exfoliation
+1389	Chlamydial infection
+1390	Streptococcal infection
+1391	Superinfection
+1392	Pain of skin
+1393	Pyloric stenosis
+1394	Ventricular extrasystoles
+1395	Chromaturia
+1396	General disorders and administration site conditions
+1397	Electrocardiogram repolarisation abnormality
+1398	Retinopathy of prematurity
+1399	Brain injury
+1400	Necrotising colitis
+1401	Necrotising enterocolitis neonatal
+1402	Stroke volume increased
+1403	Infusion site phlebitis
+1404	Infusion site inflammation
+1405	Thyroxine decreased
+1406	Brain hypoxia
+1407	Regurgitation
+1408	Muscle rigidity
+1409	Tachyphylaxis
+1410	Increased bronchial secretion
+1411	Sputum increased
+1412	Myoglobinaemia
+1413	Sickle cell anaemia
+1414	Sudden hearing loss
+1415	Enterocolitis
+1416	Vitreous floaters
+1417	Deafness neurosensory
+1418	Iris disorder
+1419	Myopia
+1420	Retinal disorder
+1421	Retinal haemorrhage
+1422	Retinal vascular occlusion
+1423	Retinal vein occlusion
+1424	Sexually transmitted disease
+1425	Stridor
+1426	Synovitis
+1427	Vitreous detachment
+1428	Cerebral thrombosis
+1429	Oculogyric crisis
+1430	Oedema genital
+1431	Tendon rupture
+1432	Blindness transient
+1433	Eyelid oedema
+1434	Xanthopsia
+1435	Nasal dryness
+1436	Chloropsia
+1437	Scleral discolouration
+1438	Retinal oedema
+1439	Soft tissue disorder
+1440	Penile haemorrhage
+1441	Erythropsia
+1442	Migraine without aura
+1443	Transient global amnesia
+1444	Arteriosclerotic retinopathy
+1445	Halo vision
+1446	Chromatopsia
+1447	Dissociation
+1448	Erection increased
+1449	Drug effect increased
+1450	Lung neoplasm malignant
+1451	Sickle cell anaemia with crisis
+1452	Visual colour distortions
+1453	Cyanopsia
+1454	Visual brightness
+1455	Device malfunction
+1456	Optic ischaemic neuropathy
+1457	Right ventricular failure
+1458	Bundle branch block
+1459	Paralysis flaccid
+1460	Congenital anomaly
+1461	Developmental delay
+1462	Acquired immunodeficiency syndrome
+1463	Autoimmune disorder
+1464	Fungal skin infection
+1465	Nephrotic syndrome
+1466	Genetic polymorphism
+1467	Pertussis
+1468	Mucosal inflammation
+1469	Corneal erosion
+1470	Urethritis
+1471	Sinusitis bacterial
+1472	Drug-induced liver injury
+1473	Alveolitis allergic
+1474	Conjunctival haemorrhage
+1475	Traumatic haemorrhage
+1476	Diarrhoea haemorrhagic
+1477	Reticulocytosis
+1478	Colitis microscopic
+1479	Jaundice hepatocellular
+1480	Procedural haemorrhage
+1481	Hypertensive crisis
+1482	Hair growth abnormal
+1483	Vulvovaginal pain
+1484	Faeces hard
+1485	Urine odour abnormal
+1486	Residual urine volume
+1487	QRS axis abnormal
+1488	Colitis ulcerative
+1489	Proctocolitis
+1490	Large intestine polyp
+1491	Duodenitis
+1492	Oesophageal achalasia
+1493	Cardiac flutter
+1494	Glycosuria
+1495	Heat stroke
+1496	White blood cell disorder
+1497	Urethritis noninfective
+1498	Coagulation time prolonged
+1499	Creatinine renal clearance decreased
+1500	Generalised oedema
+1501	Scrotal oedema
+1502	Urethral pain
+1503	Retinal vascular disorder
+1504	Iron deficiency anaemia
+1505	Lichenoid keratosis
+1506	Gastric polyps
+1507	Erosive oesophagitis
+1508	Gastrointestinal candidiasis
+1509	Injection site thrombosis
+1510	Dyspeptic signs and symptoms
+1511	Alkalosis hypochloraemic
+1512	Shunt thrombosis
+1513	Abortion spontaneous
+1514	Collagen disorder
+1515	Congenital eye disorder
+1516	Foetal death
+1517	Angle closure glaucoma
+1518	Lymphocytosis
+1519	Melanosis
+1520	Orgasm abnormal
+1521	Anal pruritus
+1522	Salpingitis
+1523	Xerophthalmia
+1524	Drug level decreased
+1525	Drug level increased
+1526	Blunted affect
+1527	Gravitational oedema
+1528	Breast cancer female
+1529	Hypomania
+1530	Pericardial disease
+1531	Ejaculation failure
+1532	Hypohidrosis
+1533	Prothrombin level decreased
+1534	Prothrombin time shortened
+1535	Mental status changes
+1536	Aneurysm
+1537	Animal bite
+1538	Arteriosclerosis
+1539	Sports injury
+1540	Marrow hyperplasia
+1541	Carbuncle
+1542	Varicella
+1543	Choking
+1544	Muscle contracture
+1545	Petit mal epilepsy
+1546	Femoral neck fracture
+1547	Gilbert's syndrome
+1548	Hunger
+1549	Hyperphagia
+1550	Ileitis
+1551	Impetigo
+1552	Keratoconus
+1553	Lipoma
+1554	Lymphadenitis
+1555	Mastitis
+1556	Meniere's disease
+1557	Motion sickness
+1558	Myocarditis
+1559	Nasal polyps
+1560	Night blindness
+1561	Obsessive-compulsive disorder
+1562	Tension headache
+1563	Radius fracture
+1564	Rib fracture
+1565	Salmonellosis
+1566	Scoliosis
+1567	Snoring
+1568	Sunburn
+1569	Thyroiditis
+1570	Costochondritis
+1571	Onychomycosis
+1572	Tooth erosion
+1573	Tracheal disorder
+1574	Tuberculosis
+1575	Ulna fracture
+1576	Skin papilloma
+1577	Idiopathic thrombocytopenic purpura
+1578	Post-traumatic neck syndrome
+1579	Muscle rupture
+1580	Breast discharge
+1581	Neurotransmitter level altered
+1582	Otosalpingitis
+1583	Menstruation irregular
+1584	Facial bones fracture
+1585	Ankle fracture
+1586	Tympanic membrane perforation
+1587	Atrophic vulvovaginitis
+1588	Road traffic accident
+1589	Nodal rhythm
+1590	Painful erection
+1591	Dermatitis acneiform
+1592	Head discomfort
+1593	Skin warm
+1594	Vein disorder
+1595	Periodontal destruction
+1596	Early satiety
+1597	Hand dermatitis
+1598	Pregnancy test positive
+1599	Pelvic inflammatory disease
+1600	Intervertebral disc protrusion
+1601	Tooth injury
+1602	Reflux gastritis
+1603	Generalised anxiety disorder
+1604	Mouth injury
+1605	Foot fracture
+1606	Bronchitis viral
+1607	Facial spasm
+1608	Acute psychosis
+1609	Epidermal naevus
+1610	House dust allergy
+1611	Viral upper respiratory tract infection
+1612	Genital candidiasis
+1613	Initial insomnia
+1614	Middle insomnia
+1615	Finger deformity
+1616	Respiration abnormal
+1617	Pyelonephritis acute
+1618	Electrocardiogram PR shortened
+1619	Food craving
+1620	Terminal insomnia
+1621	Sleep talking
+1622	Bladder dilatation
+1623	Sensation of blood flow
+1624	Intervertebral disc disorder
+1625	Bladder discomfort
+1626	Alcohol problem
+1627	Nasal septum deviation
+1628	Traumatic haematoma
+1629	Lip dry
+1630	Stress at work
+1631	Sacroiliitis
+1632	Family stress
+1633	Genitourinary chlamydia infection
+1634	Genital infection
+1635	Gingival infection
+1636	Infection parasitic
+1637	Allergic sinusitis
+1638	Allergic oedema
+1639	Rhinitis perennial
+1640	Arthropod sting
+1641	Muscle tightness
+1642	Performance status decreased
+1643	Sluggishness
+1644	Blood urine present
+1645	Latent tetany
+1646	Orchitis noninfective
+1647	Post-traumatic pain
+1648	Vasodilatation
+1649	Prinzmetal angina
+1650	Bone neoplasm
+1651	Arteriospasm coronary
+1652	Hyperpathia
+1653	Vasospasm
+1654	Monocytosis
+1655	Thyroid adenoma
+1656	Choking sensation
+1657	Medication overuse headache
+1658	Acute yellow liver atrophy
+1659	Cachexia
+1660	Cerebral infarction
+1661	Facial pain
+1662	Lymphangitis
+1663	Rhinitis atrophic
+1664	Vascular headache
+1665	Tachyarrhythmia
+1666	Atrioventricular block first degree
+1667	Clostridium difficile colitis
+1668	Deafness permanent
+1669	Immunoglobulins increased
+1670	Hyperchlorhydria
+1671	Injection site hypersensitivity
+1672	Blood thromboplastin decreased
+1673	Corneal deposits
+1674	Activated partial thromboplastin time prolonged
+1675	PCO2
+1676	Vital dye staining cornea present
+1677	Fluid intake reduced
+1678	Lipase increased
+1679	Oral infection
+1680	International normalised ratio decreased
+1681	Corneal infiltrates
+1682	Corneal epithelium defect
+1683	Oral fungal infection
+1684	Infusion site extravasation
+1685	Insulin resistance
+1686	Lipodystrophy acquired
+1687	Opportunistic infection
+1688	Metabolic acidosis
+1689	Lipohypertrophy
+1690	Hyperlactacidaemia
+1691	Fat redistribution
+1692	Porphyria non-acute
+1693	Erythropenia
+1694	Granulomatous liver disease
+1695	Glucose-6-phosphate dehydrogenase deficiency
+1696	Flank pain
+1697	Food allergy
+1698	Basedow's disease
+1699	Lipomatosis
+1700	Hepatic cirrhosis
+1701	Sinus disorder
+1702	Paronychia
+1703	Periarthritis
+1704	Spleen disorder
+1705	Crystalluria
+1706	Renal colic
+1707	Skin hyperpigmentation
+1708	Orbital oedema
+1709	Calculus urinary
+1710	Paraesthesia oral
+1711	Haemophilia
+1712	Blood bilirubin unconjugated increased
+1713	Lipoatrophy
+1714	Multiple sclerosis
+1715	Nephrogenic systemic fibrosis
+1716	Menarche
+1717	Lactic acidosis
+1718	Adenoma benign
+1719	Anaemia macrocytic
+1720	Anaemia megaloblastic
+1721	Aortic valve stenosis
+1722	Arachnoiditis
+1723	Sinus arrhythmia
+1724	Benign neoplasm of skin
+1725	Calculus bladder
+1726	Bronchiectasis
+1727	Bronchiolitis
+1728	Skin candida
+1729	Carotid artery thrombosis
+1730	Cerebellar syndrome
+1731	Intracranial aneurysm
+1732	Cervicitis
+1733	Cervix neoplasm
+1734	Chondrodystrophy
+1735	Corneal opacity
+1736	Diabetic neuropathy
+1737	Endocarditis
+1738	Oesophageal stenosis
+1739	Fibrocystic breast disease
+1740	Glomerulonephritis
+1741	Granuloma
+1742	Guillain-Barre syndrome
+1743	Cardiomegaly
+1744	Intestinal perforation
+1745	Ketosis
+1746	Congenital cystic kidney disease
+1747	Laryngeal neoplasm
+1748	Left ventricular failure
+1749	Leukaemoid reaction
+1750	Leukoplakia oral
+1751	Myelitis
+1752	Myelofibrosis
+1753	Myeloid metaplasia
+1754	Optic atrophy
+1755	Orchitis
+1756	Ovarian disorder
+1757	Pancreatic disorder
+1758	Parathyroid disorder
+1759	Pleural disorder
+1760	Polycythaemia
+1761	Neoplasm prostate
+1762	Emphysema
+1763	Cor pulmonale
+1764	Retinal artery occlusion
+1765	Retinal degeneration
+1766	Retroperitoneal fibrosis
+1767	Sarcoidosis
+1768	Scleritis
+1769	Sialoadenitis
+1770	Splenic rupture
+1771	Splenomegaly
+1772	Subarachnoid haemorrhage
+1773	Congenital genitourinary abnormality
+1774	Genitourinary tract neoplasm
+1775	Uterine disorder
+1776	Uveitis
+1777	Virilism
+1778	Peroneal nerve palsy
+1779	Hormone level abnormal
+1780	Congenital arterial malformation
+1781	Congenital musculoskeletal anomaly
+1782	Skin atrophy
+1783	Capillary fragility increased
+1784	Cogwheel rigidity
+1785	Endometrial disorder
+1786	Intracranial pressure increased
+1787	Liver tenderness
+1788	Malignant melanoma
+1789	Mucous membrane disorder
+1790	Nasal septum disorder
+1791	Skin necrosis
+1792	Coronary artery occlusion
+1793	Smear cervix abnormal
+1794	Electrocardiogram QT shortened
+1795	Retinal depigmentation
+1796	Drug tolerance decreased
+1797	Oesophageal ulcer
+1798	Intestinal ulcer
+1799	Vulvovaginal disorder
+1800	Impaired gastric emptying
+1801	Gastric atony
+1802	Prostatic specific antigen increased
+1803	Pseudolymphoma
+1804	Elevated mood
+1805	Bradyphrenia
+1806	Dysgraphia
+1807	Action tremor
+1808	Therapeutic response unexpected
+1809	Colour blindness
+1810	Atrioventricular block second degree
+1811	Carotid artery occlusion
+1812	Intestinal stenosis
+1813	Pancreatitis necrotising
+1814	Calcium metabolism disorder
+1815	Gastric ulcer haemorrhage
+1816	Hypovitaminosis
+1817	Red blood cell abnormality
+1818	Oscillopsia
+1819	Nodal arrhythmia
+1820	Endometrial cancer
+1821	Electrocardiogram ST segment depression
+1822	Electrocardiogram T wave inversion
+1823	Thyroid cancer
+1824	Blood prolactin increased
+1825	Bladder cancer
+1826	Altered visual depth perception
+1827	Ovarian cancer
+1828	Chronic leukaemia
+1829	Rash papular
+1830	Retinal vein thrombosis
+1831	Arthritis bacterial
+1832	Rash macular
+1833	Patent ductus arteriosus
+1834	Erythema nodosum
+1835	Hepatitis toxic
+1836	Necrosis
+1837	Vertical infection transmission
+1838	Chronic hepatitis B
+1839	Blood phosphorus decreased
+1840	Hypertransaminasaemia
+1841	Underweight
+1842	Adenovirus infection
+1843	Obliterative bronchiolitis
+1844	Cholangitis sclerosing
+1845	Eating disorder
+1846	Lichen planus
+1847	Myelitis transverse
+1848	Glomerulonephritis minimal lesion
+1849	Azoospermia
+1850	Peptic ulcer perforation
+1851	Pericarditis constrictive
+1852	Pyoderma
+1853	Dermatitis infected
+1854	Reye's syndrome
+1855	Pyoderma gangrenosum
+1856	Kidney fibrosis
+1857	Body mass index decreased
+1858	Dyschezia
+1859	Mucous stools
+1860	Defaecation urgency
+1861	Rash generalised
+1862	Alveolitis
+1863	Sperm concentration decreased
+1864	Blood creatinine abnormal
+1865	Rectal spasm
+1866	Medication residue present
+1867	Blood methaemoglobin present
+1868	Pleuropericarditis
+1869	Dementia Alzheimer's type
+1870	Oesophageal motility disorder
+1871	Ventricular septal defect
+1872	Somnambulism
+1873	Bundle branch block right
+1874	Buccoglossal syndrome
+1875	Teratogenicity
+1876	Bradykinesia
+1877	Vertigo positional
+1878	Basophilia
+1879	Eosinophil count abnormal
+1880	Male sexual dysfunction
+1881	Diabetic coma
+1882	Diabetic hyperglycaemic coma
+1883	Embolism venous
+1884	Fibrosis
+1885	Hemianopia
+1886	Impulse-control disorder
+1887	Pathological gambling
+1888	Hypersexuality
+1889	Sudden onset of sleep
+1890	Pleural fibrosis
+1891	Anoxia
+1892	Infectious mononucleosis
+1893	Infertility male
+1894	Renal papillary necrosis
+1895	Nerve injury
+1896	Hypoalbuminaemia
+1897	Application site erythema
+1898	Application site pruritus
+1899	Application site dryness
+1900	Application site burn
+1901	Tonic clonic movements
+1902	Alkalosis
+1903	Chorea
+1904	Dupuytren's contracture
+1905	Hyperplasia
+1906	Measles
+1907	Osteomalacia
+1908	Polyarteritis nodosa
+1909	Extensor plantar response
+1910	Dysphemia
+1911	Asterixis
+1912	Rash morbilliform
+1913	Tonic convulsion
+1914	Purple glove syndrome
+1915	Tooth hypoplasia
+1916	Sensitivity of teeth
+1917	Mass
+1918	Pulpitis dental
+1919	Tooth discolouration
+1920	Tooth fracture
+1921	Tooth loss
+1922	Vaginitis bacterial
+1923	Nail discolouration
+1924	Fontanelle bulging
+1925	Photoonycholysis
+1926	Vulvovaginal burning sensation
+1927	Chronic myeloid leukaemia
+1928	Essential thrombocythaemia
+1929	Brain abscess
+1930	Brain neoplasm
+1931	Effusion
+1932	Hydrocephalus
+1933	Cerebrospinal fluid leakage
+1934	Monoplegia
+1935	Acute leukaemia
+1936	Disease progression
+1937	Pulmonary hypoplasia
+1938	Dysplasia
+1939	Anaplastic astrocytoma
+1940	Meningitis chemical
+1941	Neoplasm recurrence
+1942	Cerebral haematoma
+1943	Venoocclusive disease
+1944	Ocular toxicity
+1945	Idiopathic pneumonia syndrome
+1946	Arterial insufficiency
+1947	Raynaud's phenomenon
+1948	Conduction disorder
+1949	Libido disorder
+1950	Adenocarcinoma
+1951	Arteritis
+1952	Balanoposthitis
+1953	Breast cyst
+1954	Laryngeal cancer
+1955	Rectal cancer
+1956	Squamous cell carcinoma
+1957	Type 2 diabetes mellitus
+1958	Dysentery
+1959	Localised infection
+1960	Hemiparesis
+1961	Illusion
+1962	Seborrhoeic keratosis
+1963	Actinic keratosis
+1964	Inner ear disorder
+1965	Lactase deficiency
+1966	Lactose intolerance
+1967	Macular degeneration
+1968	Mitral valve incompetence
+1969	Neuroma
+1970	Melanocytic naevus
+1971	Middle ear effusion
+1972	Poliomyelitis
+1973	Sick sinus syndrome
+1974	Gastric disorder
+1975	Uterine neoplasm
+1976	Vocal cord paralysis
+1977	Fall
+1978	Blood electrolytes abnormal
+1979	Oesophageal carcinoma
+1980	Monarthritis
+1981	Intervertebral disc degeneration
+1982	Spine malformation
+1983	Angiomyolipoma
+1984	Gastric haemorrhage
+1985	Saliva altered
+1986	Therapeutic response increased
+1987	Therapeutic response decreased
+1988	Cerebral atrophy
+1989	Salivary duct obstruction
+1990	Blood iron decreased
+1991	Aura
+1992	Gastrointestinal stromal tumour
+1993	Anaplastic thyroid cancer
+1994	Perineal pain
+1995	Rotator cuff syndrome
+1996	Post procedural infection
+1997	Ischaemic hepatitis
+1998	Brain neoplasm benign
+1999	Abdominal adhesions
+2000	Peritoneal adhesions
+2001	Phlebitis superficial
+2002	Parkinson's disease
+2003	Nasal mucosal disorder
+2004	Procedural complication
+2005	Infected cyst
+2006	Lower limb fracture
+2007	Anaemia vitamin B12 deficiency
+2008	Renal cyst
+2009	Hiatus hernia
+2010	Renal tubular acidosis
+2011	Anhidrosis
+2012	Apraxia
+2013	Formication
+2014	Chloasma
+2015	Eye movement disorder
+2016	Panic disorder
+2017	Premature ejaculation
+2018	Presbyopia
+2019	Rickets
+2020	Status epilepticus
+2021	Acidosis hyperchloraemic
+2022	Electroencephalogram abnormal
+2023	Hyperammonaemia
+2024	Temperature intolerance
+2025	Distractibility
+2026	Feeling of despair
+2027	Perseveration
+2028	Clumsiness
+2029	Scintillating scotoma
+2030	Tongue paralysis
+2031	Hair texture abnormal
+2032	Upper motor neurone lesion
+2033	Expressive language disorder
+2034	Food interaction
+2035	Muscle fatigue
+2036	Ketogenic diet
+2037	Essential tremor
+2038	Familial tremor
+2039	Blindness unilateral
+2040	Repetitive speech
+2041	Fluid intake increased
+2042	Blood bicarbonate
+2043	Dyslexia
+2044	Maculopathy
+2045	Learning disability
+2046	Partial seizures
+2047	Blood bicarbonate decreased
+2048	Limb discomfort
+2049	Lack of spontaneous speech
+2050	Unresponsive to stimuli
+2051	Circadian rhythm sleep disorder
+2052	Crystal urine present
+2053	Orgasmic sensation decreased
+2054	Paranasal sinus hypersecretion
+2055	Tandem gait test abnormal
+2056	Poor quality sleep
+2057	Calculus ureteric
+2058	Sudden unexplained death in epilepsy
+2059	Hyposmia
+2060	Deafness unilateral
+2061	Venous thrombosis
+2062	Atrial tachycardia
+2063	Haemodynamic instability
+2064	Hypoxic-ischaemic encephalopathy
+2065	Overdose
+2066	Aphonia
+2067	Meningism
+2068	Methaemoglobinaemia
+2069	Cranial nerve paralysis
+2070	Anterior spinal artery syndrome
+2071	Neurological symptom
+2072	Peripheral nerve injury
+2073	Myocardial depression
+2074	Cauda equina syndrome
+2075	Spinal anaesthesia
+2076	Application site irritation
+2077	Vessel puncture site haemorrhage
+2078	Endotracheal intubation complication
+2079	Episcleritis
+2080	Femur fracture
+2081	Focal segmental glomerulosclerosis
+2082	Iridocyclitis
+2083	Acute lymphocytic leukaemia
+2084	Metastasis
+2085	Periodontal disease
+2086	Drug administration error
+2087	Cholecystitis infective
+2088	Soft tissue inflammation
+2089	Osteonecrosis of jaw
+2090	Intussusception
+2091	Pneumatosis intestinalis
+2092	Pneumoperitoneum
+2093	Volvulus
+2094	Intestinal haemorrhage
+2095	Pneumatosis
+2096	Subileus
+2097	Endometriosis
+2098	Oesophageal spasm
+2099	Haemochromatosis
+2100	Mitral valve disease
+2101	Osteosclerosis
+2102	Parotitis
+2103	Breast engorgement
+2104	Bleeding time prolonged
+2105	Hair colour changes
+2106	Abortion
+2107	Blood pressure diastolic increased
+2108	Energy increased
+2109	Onychoclasis
+2110	Epidermal necrosis
+2111	Conjunctivitis allergic
+2112	Ectropion
+2113	Retinal pigmentation
+2114	Eczema eyelids
+2115	Scab
+2116	Macular oedema
+2117	Madarosis
+2118	Blood pressure diastolic decreased
+2119	Eye naevus
+2120	Lid sulcus deepened
+2121	Corneal pigmentation
+2122	Scleral hyperaemia
+2123	Anterior chamber flare
+2124	Anterior chamber cell
+2125	Growth of eyelashes
+2126	Meibomianitis
+2127	Eyelids pruritus
+2128	Eye allergy
+2129	Conjunctival follicles
+2130	Iris hyperpigmentation
+2131	Anterior chamber inflammation
+2132	Eyelid irritation
+2133	Anterior chamber pigmentation
+2134	Eyelash discolouration
+2135	Eyelash thickening
+2136	Eyelid pain
+2137	Pigment dispersion syndrome
+2138	Dark circles under eyes
+2139	Pre-existing disease
+2140	Urine flow decreased
+2141	Cerebral arteritis
+2142	Scleroderma
+2143	Metaplasia
+2144	Radiation pneumonitis
+2145	Fraction of inspired oxygen
+2146	Skin toxicity
+2147	Chest X-ray normal
+2148	Myelodysplastic syndrome
+2149	Haematological malignancy
+2150	Metastatic neoplasm
+2151	Procedural nausea
+2152	Upper airway obstruction
+2153	Cheyne-Stokes respiration
+2154	Spontaneous penile erection
+2155	Cardiovascular insufficiency
+2156	Stereotypy
+2157	Addison's disease
+2158	Alcoholism
+2159	Carbon dioxide increased
+2160	Hypercapnia
+2161	Urethral stenosis
+2162	Cough decreased
+2163	Accidental overdose
+2164	Prolonged labour
+2165	Substance abuse
+2166	Oxygen saturation decreased
+2167	Ureteral spasm
+2168	Breakthrough pain
+2169	Haemorrhagic urticaria
+2170	Respiratory disorder
+2171	Genital swelling
+2172	Non-cardiogenic pulmonary oedema
+2173	Abnormal labour
+2174	Foetal distress syndrome
+2175	Heart disease congenital
+2176	Horner's syndrome
+2177	Jaundice neonatal
+2178	Post procedural complication
+2179	Postpartum haemorrhage
+2180	Uterine atony
+2181	Uterine hypotonus
+2182	Hypoglycaemia neonatal
+2183	Fever neonatal
+2184	Vomiting neonatal
+2185	Extradural abscess
+2186	Tachycardia foetal
+2187	Bradycardia foetal
+2188	Foetal acidosis
+2189	Sepsis neonatal
+2190	Central nervous system stimulation
+2191	Blood urea decreased
+2192	Apgar score low
+2193	Injury associated with device
+2194	Neonatal infection
+2195	Spinal haematoma
+2196	Neonatal tachypnoea
+2197	Respiratory disorder neonatal
+2198	Meningitis aseptic
+2199	Diplegia
+2200	Paraplegia
+2201	Vasoconstriction
+2202	Chondrolysis
+2203	Anaemia postoperative
+2204	Haemorrhagic anaemia
+2205	Procedural hypotension
+2206	Procedural hypertension
+2207	Incision site oedema
+2208	Post procedural swelling
+2209	Delayed delivery
+2210	Haemorrhage in pregnancy
+2211	Wound secretion
+2212	Fanconi syndrome
+2213	Renal tubular disorder
+2214	Fasting
+2215	Hepatitis B
+2216	Nephrogenic diabetes insipidus
+2217	Exfoliative rash
+2218	Renal cortical necrosis
+2219	Venous occlusion
+2220	Aortic dissection
+2221	Multiple allergies
+2222	Clostridial infection
+2223	Pelvic abscess
+2224	Scleral disorder
+2225	Postoperative wound infection
+2226	Blood urine
+2227	Bladder dysfunction
+2228	Genital rash
+2229	Abdominal abscess
+2230	Seroma
+2231	Viral pharyngitis
+2232	Blood albumin decreased
+2233	Genital haemorrhage
+2234	Infusion site erythema
+2235	Infusion site pain
+2236	Anastomotic leak
+2237	Incision site haemorrhage
+2238	Infusion site oedema
+2239	Infusion site induration
+2240	Infusion site warmth
+2241	Infusion site swelling
+2242	Infusion site pruritus
+2243	Wound complication
+2244	Incision site complication
+2245	Gastrointestinal stoma complication
+2246	Clostridium colitis
+2247	Urinary sediment present
+2248	Hepatic neoplasm
+2249	Contact lens intolerance
+2250	Bladder fibrosis
+2251	Aspiration
+2252	Injection site cellulitis
+2253	Bone marrow toxicity
+2254	Vasculitis necrotising
+2255	Autism
+2256	Enzyme induction
+2257	Folate deficiency
+2258	Learning disorder
+2259	Cutaneous lupus erythematosus
+2260	Polycystic ovaries
+2261	Aplasia pure red cell
+2262	Porphyria acute
+2263	Neonatal disorder
+2264	Coagulation factor decreased
+2265	Liver function test normal
+2266	Hypofibrinogenaemia
+2267	Cerebellar atrophy
+2268	Thyroid function test abnormal
+2269	Autism spectrum disorder
+2270	Phenylketonuria
+2271	Splenic infarction
+2272	Feeling cold
+2273	Bladder neck obstruction
+2274	Dystonia
+2275	Benign prostatic hyperplasia
+2276	Kounis syndrome
+2277	Gastrointestinal perforation
+2278	Skin fissures
+2279	Cancer pain
+2280	Bullous conditions
+2281	Coombs direct test positive
+2282	Blood glucose decreased
+2283	Parotid gland enlargement
+2284	Electrocardiogram QRS complex
+2285	Testicular swelling
+2286	Barrett's oesophagus
+2287	Brain cancer metastatic
+2288	Metastases to central nervous system
+2289	Walking disability
+2290	Injection site urticaria
+2291	Bedridden
+2292	Tumour invasion
+2293	Bezoar
+2294	Therapy naive
+2295	Gouty arthritis
+2296	Ankylosing spondylitis
+2297	Pulmonary vasculitis
+2298	Gastric perforation
+2299	Cellulitis gangrenous
+2300	Necrotising fasciitis
+2301	Nephritic syndrome
+2302	Post procedural oedema
+2303	Ketonuria
+2304	Ketoacidosis
+2305	Acetonaemia
+2306	Acute prerenal failure
+2307	Corneal oedema
+2308	Type I hypersensitivity
+2309	Oedema mouth
+2310	Bronchospasm paradoxical
+2311	Foetal damage
+2312	Chronic hepatitis
+2313	Phonological disorder
+2314	Diabetic ketoacidosis
+2315	Normochromic normocytic anaemia
+2316	Lenticular pigmentation
+2317	Injection site mass
+2318	Psychiatric symptom
+2319	Asocial behaviour
+2320	Antisocial personality disorder
+2321	Antisocial behaviour
+2322	Blood pressure systolic decreased
+2323	Masked facies
+2324	Electrocardiogram change
+2325	Schizophrenia
+2326	Blood creatine increased
+2327	Mixed liver injury
+2328	Blood bilirubin decreased
+2329	Cardiac septal defect
+2330	Systolic hypertension
+2331	Carcinoid tumour
+2332	Lacrimation decreased
+2333	Hepatic encephalopathy
+2334	Gastrinoma
+2335	Oesophageal candidiasis
+2336	Mucosal atrophy
+2337	Oesophageal disorder
+2338	Varices oesophageal
+2339	Pharyngeal disorder
+2340	Duodenal ulcer haemorrhage
+2341	Blood gastrin increased
+2342	Mucosal discolouration
+2343	Sideroblastic anaemia
+2344	Blood iron increased
+2345	Ototoxicity
+2346	Stillbirth
+2347	Urticaria chronic
+2348	Sinoatrial block
+2349	Device capturing issue
+2350	Left ventricular dysfunction
+2351	Oedema due to cardiac disease
+2352	Floppy iris syndrome
+2353	Cholestatic liver injury
+2354	Nodular regenerative hyperplasia
+2355	Portal hypertension
+2356	Peliosis hepatis
+2357	Gastrointestinal necrosis
+2358	Coombs test positive
+2359	Small cell lung cancer
+2360	Injection site dermatitis
+2361	Neutropenic sepsis
+2362	Recall phenomenon
+2363	Bone marrow disorder
+2364	Cataplexy
+2365	Diabetic hyperosmolar coma
+2366	Areflexia
+2367	Hepatic fibrosis
+2368	Cholinergic syndrome
+2369	Myasthenic syndrome
+2370	Urinary abnormalities
+2371	Endometritis
+2372	Device expulsion
+2373	Papilloma
+2374	Ectopic pregnancy
+2375	Uterine perforation
+2376	Vaginal neoplasm
+2377	Vulval disorder
+2378	Genital ulceration
+2379	Uterine enlargement
+2380	Streptococcal sepsis
+2381	Chapped lips
+2382	Smear cervix normal
+2383	Device breakage
+2384	Genital discharge
+2385	Breast discomfort
+2386	Injection site necrosis
+2387	Acute abdomen
+2388	Asphyxia
+2389	Localised oedema
+2390	Deafness transitory
+2391	Blood acid phosphatase increased
+2392	Osteoporotic fracture
+2393	Orthostatic hypertension
+2394	Eyelid ptosis
+2395	Cystoid macular oedema
+2396	Serositis
+2397	Sjogren's syndrome
+2398	Choroidal detachment
+2399	Bronchial obstruction
+2400	Physical assault
+2401	Blood culture positive
+2402	Pseudomonas infection
+2403	Pseudomonal sepsis
+2404	Infusion site infection
+2405	Cycloplegia
+2406	Electrocardiogram T wave amplitude decreased
+2407	Gastrointestinal hypomotility
+2408	Atrioventricular dissociation
+2409	Electrocardiogram PR prolongation
+2410	Supraventricular tachyarrhythmia
+2411	Mesenteric vascular insufficiency
+2412	Intestinal ischaemia
+2413	Uterine cervical erosion
+2414	Cleft lip
+2415	Cleft palate
+2416	Endometrial hyperplasia
+2417	Assisted fertilisation
+2418	Haemangioma
+2419	Premature labour
+2420	Withdrawal bleed
+2421	Vulvovaginal discomfort
+2422	Pelvic venous thrombosis
+2423	Ovarian failure
+2424	Burning mouth syndrome
+2425	Keratoacanthoma
+2426	Abdominal rigidity
+2427	Oesophageal pain
+2428	Leukoencephalopathy
+2429	Metastatic renal cell carcinoma
+2430	Hepatic pain
+2431	Squamous cell carcinoma of skin
+2432	Blood thyroid stimulating hormone increased
+2433	Prothrombin level abnormal
+2434	Oesophageal discomfort
+2435	Acute phase reaction
+2436	Necrosis ischaemic
+2437	Malignant neoplasm progression
+2438	Blood creatinine decreased
+2439	Renal cancer
+2440	Infusion related reaction
+2441	Atypical femur fracture
+2442	Alcohol poisoning
+2443	Retrograde amnesia
+2444	Drug intolerance
+2445	Fear
+2446	Drug withdrawal convulsions
+2447	Loss of control of legs
+2448	Feeling of relaxation
+2449	Logorrhoea
+2450	Protrusion tongue
+2451	Upper respiratory tract congestion
+2452	Volume blood increased
+2453	Anion gap increased
+2454	Abdominal neoplasm
+2455	Neurogenic bladder
+2456	Cerebral artery embolism
+2457	Delusional disorders
+2458	Intervertebral discitis
+2459	Epicondylitis
+2460	Fasciitis
+2461	Congenital foot malformation
+2462	Gastrointestinal neoplasm
+2463	Atrial septal defect
+2464	Umbilical hernia
+2465	Renal neoplasm
+2466	Chronic lymphocytic leukaemia
+2467	Narcolepsy
+2468	Nasal disorder
+2469	Parasomnia
+2470	Lobar pneumonia
+2471	Neoplasm skin
+2472	Cholecystitis chronic
+2473	Amaurosis fugax
+2474	Anticholinergic syndrome
+2475	Gallbladder cancer
+2476	Lung cancer metastatic
+2477	Metabolic alkalosis
+2478	Flight of ideas
+2479	Tongue ulceration
+2480	Vestibular ataxia
+2481	Ventricular hypertrophy
+2482	Nail infection
+2483	Oral neoplasm benign
+2484	Prostatic adenoma
+2485	Binge eating
+2486	Sleep phase rhythm disturbance
+2487	Sleep attacks
+2488	Dacryostenosis acquired
+2489	Colorectal cancer
+2490	Compulsive sexual behaviour
+2491	Compulsive shopping
+2492	Semen analysis abnormal
+2493	Coma hepatic
+2494	Attention deficit/hyperactivity disorder
+2495	Benign neoplasm
+2496	Weight gain poor
+2497	Hallucination, tactile
+2498	Hypervigilance
+2499	Drug effect decreased
+2500	Auricular swelling
+2501	Reversible ischaemic neurological deficit
+2502	White blood cell count abnormal
+2503	Exfoliative conditions
+2504	Pruritus NEC
+2505	Sympathomimetic effect
+2506	Clonus
+2507	Strabismus
+2508	Ventricular flutter
+2509	Gastrointestinal sounds abnormal
+2510	Rash scarlatiniform
+2511	Labile blood pressure
+2512	Appetite disorder
+2513	Skin wrinkling
+2514	Haemoglobinaemia
+2515	Exposure to toxic agent
+2516	Pregnancy test false positive
+2517	Tetanus
+2518	Keratopathy
+2519	Parkinsonian rest tremor
+2520	Hypocalciuria
+2521	Potassium imbalance
+2522	Blast cell crisis
+2523	Angioimmunoblastic T-cell lymphoma
+2524	Nocturnal emission
+2525	Pancreatitis haemorrhagic
+2526	Skin oedema
+2527	Vasculitis gastrointestinal
+2528	Streptobacillary fever
+2529	Septic arthritis streptobacillus
+2530	Traumatic lung injury
+2531	Capillary leak syndrome
+2532	Blood bilirubin normal
+2533	Oral toxicity
+2534	Hypertrophic cardiomyopathy
+2535	Fat embolism
+2536	Myocardial rupture
+2537	Low birth weight baby
+2538	Ocular hypertension
+2539	Hypotony of eye
+2540	Retinal tear
+2541	Telangiectasia
+2542	Vitreous haemorrhage
+2543	Alkalosis hypokalaemic
+2544	Adrenocortical insufficiency acute
+2545	Vitreous opacities
+2546	Cataract subcapsular
+2547	Increased insulin requirement
+2548	Steroid withdrawal syndrome
+2549	Spinal compression fracture
+2550	Cushingoid
+2551	Scleral thinning
+2552	Carbohydrate tolerance decreased
+2553	Nitrogen balance negative
+2554	Device dislocation
+2555	Corneal thinning
+2556	Retinal aneurysm
+2557	Complication of device insertion
+2558	Joint instability
+2559	Paraparesis
+2560	Rash follicular
+2561	Skin depigmentation
+2562	Congestive cardiomyopathy
+2563	Hepatosplenomegaly
+2564	Immunology test
+2565	Acute myeloid leukaemia
+2566	Myeloid leukaemia
+2567	Oral neoplasm
+2568	Urethral obstruction
+2569	Injection site infection
+2570	Palmar-plantar erythrodysaesthesia syndrome
+2571	Scrotal erythema
+2572	Caecitis
+2573	Phlebosclerosis
+2574	Tumour necrosis
+2575	Gastritis erosive
+2576	Hypolipidaemia
+2577	Chemical cystitis
+2578	Electrocardiogram QRS complex abnormal
+2579	Hand and foot syndrome secondary to sickle cell anaemia
+2580	Bladder stenosis
+2581	Pneumocystis jirovecii pneumonia
+2582	Proctitis ulcerative
+2583	Metastases to liver
+2584	Hepatic cancer metastatic
+2585	Premature menopause
+2586	Embolism arterial
+2587	Albumin globulin ratio abnormal
+2588	Fixed eruption
+2589	Occult blood positive
+2590	Disease recurrence
+2591	Blood electrolytes decreased
+2592	Autoimmune haemolytic anaemia
+2593	Trigeminal neuralgia
+2594	B-cell lymphoma
+2595	Cholecystitis acute
+2596	Central obesity
+2597	Oral mucosal blistering
+2598	Gastrointestinal hypermotility
+2599	Light anaesthesia
+2600	Craniosynostosis
+2601	Epiphysiolysis
+2602	Complex partial seizures
+2603	Hallucinations, mixed
+2604	Pseudoporphyria
+2605	Infertility female
+2606	Inflammatory bowel disease
+2607	Rhinalgia
+2608	Corneal perforation
+2609	Cinchonism
+2610	Cerebral hypoperfusion
+2611	Plasmodium falciparum infection
+2612	Haemoglobinuria
+2613	Sudden visual loss
+2614	Electrocardiogram U-wave abnormality
+2615	Hypoprothrombinaemia
+2616	Factor II deficiency
+2617	Allergic granulomatous angiitis
+2618	Vasculitic rash
+2619	Abdominal injury
+2620	Hepatic infiltration eosinophilic
+2621	Foetal alcohol syndrome
+2622	Large intestinal haemorrhage
+2623	Muscle haemorrhage
+2624	Oesophageal varices haemorrhage
+2625	Enlarged clitoris
+2626	Immobile
+2627	Ulcer haemorrhage
+2628	Toe walking
+2629	Carcinogenicity
+2630	Urogenital haemorrhage
+2631	Cervix haemorrhage uterine
+2632	Langerhans' cell histiocytosis
+2633	Body height decreased
+2634	Secondary hypertension
+2635	Pressure of speech
+2636	Diastolic hypertension
+2637	Glycosylated haemoglobin increased
+2638	Genital hypoaesthesia
+2639	Labile hypertension
+2640	Hepatitis A
+2641	Refractory cytopenia with unilineage dysplasia
+2642	Aortic disorder
+2643	Bronchioloalveolar carcinoma
+2644	Hip fracture
+2645	Kidney infection
+2646	Peptic ulcer haemorrhage
+2647	Psychosomatic disease
+2648	Viraemia
+2649	Pelvic fracture
+2650	Cerebellar infarction
+2651	Cervical vertebral fracture
+2652	Renal mass
+2653	Haemorrhoidal haemorrhage
+2654	Perirectal abscess
+2655	Warm type haemolytic anaemia
+2656	Iron overload
+2657	Intracranial venous sinus thrombosis
+2658	Fanconi syndrome acquired
+2659	Decreased interest
+2660	Injection site bruising
+2661	Hypercoagulation
+2662	Chondrocalcinosis
+2663	Primary hypothyroidism
+2664	Enterobacter sepsis
+2665	Klebsiella sepsis
+2666	Lip haemorrhage
+2667	Allergic conditions
+2668	Mucosal dryness
+2669	Prostate cancer metastatic
+2670	Dental discomfort
+2671	Neutrophilic dermatosis
+2672	Lymphoma cutis
+2673	Glioblastoma multiforme
+2674	Aortic valve incompetence
+2675	Arteriosclerosis coronary artery
+2676	Alveolar osteitis
+2677	Oesophageal perforation
+2678	Soft tissue infection
+2679	Vertigo CNS origin
+2680	Developmental glaucoma
+2681	Eyelid retraction
+2682	Accidental exposure to product
+2683	Hyperinsulinism
+2684	Blood insulin increased
+2685	Claustrophobia
+2686	Dissociative disorder
+2687	Tunnel vision
+2688	Cranial nerve disorder
+2689	Microsomia
+2690	Oligohydramnios
+2691	Eschar
+2692	Albumin urine present
+2693	Microcephaly
+2694	Skin bacterial infection
+2695	Rhythm idioventricular
+2696	Urinary sediment abnormal
+2697	Hepatitis C
+2698	Nail pigmentation
+2699	Mucosal pigmentation
+2700	Granuloma annulare
+2701	Post procedural constipation
+2702	Sulphaemoglobinaemia
+2703	Mental disorder due to a general medical condition
+2704	Strongyloidiasis
+2705	Polymyositis
+2706	Anaemias haemolytic immune
+2707	Argininosuccinate synthetase deficiency
+2708	Factor VIII deficiency
+2709	Molluscum contagiosum
+2710	Myeloproliferative disorder
+2711	Xanthomatosis
+2712	Cerebral venous thrombosis
+2713	Retinogram abnormal
+2714	Chemical peritonitis
+2715	Linear IgA disease
+2716	Red man syndrome
+2717	Fructose intolerance
+2718	Spinal cord disorder
+2719	Lhermitte's sign
+2720	Generalised erythema
+2721	Retinal toxicity
+2722	Loss of proprioception
+2723	Upper respiratory tract inflammation
+2724	Graft versus host disease
+2725	Circumoral oedema
+2726	Blood chloride increased
+2727	Blood chloride decreased
+2728	Blood magnesium decreased
+2729	pH urine increased
+2730	Blood uric acid decreased
+2731	Immunosuppressant drug level increased
+2732	Ocular icterus
+2733	Infusion site rash
+2734	Infusion site irritation
+2735	Infusion site urticaria
+2736	Dyspnoea paroxysmal nocturnal
+2737	Hypoplastic anaemia
+2738	Mucosal ulceration
+2739	Dysaesthesia pharynx
+2740	Aortic rupture
+2741	Hepatorenal syndrome
+2742	Pancreatic carcinoma
+2743	Myxoedema
+2744	Pulmonary veno-occlusive disease
+2745	Ureteritis
+2746	Hepatitis viral
+2747	Granulomatosis with polyangiitis
+2748	Malignant neoplasm of renal pelvis
+2749	Ureteric cancer
+2750	Organising pneumonia
+2751	Cystitis interstitial
+2752	Bladder necrosis
+2753	Ovarian atrophy
+2754	Myopericarditis
+2755	Carditis
+2756	Myocardial haemorrhage
+2757	Hypothrombinaemia
+2758	Sarcoma
+2759	Wound healing normal
+2760	Parotid gland inflammation
+2761	Bacterial disease carrier
+2762	Diaphragmatic hernia
+2763	Traumatic arthropathy
+2764	Xerosis
+2765	Duodenal perforation
+2766	Acute respiratory failure
+2767	Respiratory acidosis
+2768	Anthrax
+2769	Corneal disorder
+2770	Repetitive strain injury
+2771	Typhoid fever
+2772	Renal vasculitis
+2773	Pneumonia anthrax
+2774	Serum sickness-like reaction
+2775	Suprapubic pain
+2776	Urethral haemorrhage
+2777	Epidermolysis
+2778	Candiduria
+2779	Aortic bruit
+2780	Pneumonia klebsiella
+2781	Ear pruritus
+2782	Bone and joint infections
+2783	Skin haemorrhage
+2784	Chromosomal mutation
+2785	Eyelid exfoliation
+2786	Iron binding capacity total
+2787	Urine electrolytes abnormal
+2788	End stage AIDS
+2789	Blood calcium abnormal
+2790	Yellow skin
+2791	Adrenal disorder
+2792	Atonic urinary bladder
+2793	Urine sodium increased
+2794	Urate nephropathy
+2795	Colonic pseudo-obstruction
+2796	Decreased vibratory sense
+2797	Lipoedema
+2798	Lip oedema
+2799	Upper respiratory tract signs and symptoms
+2800	Demyelination
+2801	Acute pulmonary oedema
+2802	Onychomadesis
+2803	Dacryocanaliculitis
+2804	Biliary fibrosis
+2805	Gastrointestinal ulcer haemorrhage
+2806	White matter lesion
+2807	Organ failure
+2808	Burkitt's lymphoma
+2809	Cytomegalovirus infection
+2810	Stress fracture
+2811	Histoplasmosis
+2812	Nocardiosis
+2813	Radiation skin injury
+2814	Hidradenitis
+2815	Hypogammaglobulinaemia
+2816	Pneumonia cytomegaloviral
+2817	Hepatic atrophy
+2818	Soft tissue necrosis
+2819	Herpes simplex hepatitis
+2820	Adams-Stokes syndrome
+2821	Bone metabolism disorder
+2822	Neurodermatitis
+2823	Spermatogenesis abnormal
+2824	Blood osmolarity decreased
+2825	High density lipoprotein increased
+2826	Human herpesvirus 6 infection
+2827	Vanishing bile duct syndrome
+2828	Mean arterial pressure
+2829	Neuromuscular block prolonged
+2830	Heparin-induced thrombocytopenia
+2831	Procedural site reaction
+2832	Myotonia
+2833	Hypoglycaemic seizure
+2834	Peripheral arterial occlusive disease
+2835	Bradyarrhythmia
+2836	Salivary gland pain
+2837	Otitis media acute
+2838	Delusional perception
+2839	Withdrawal hypertension
+2840	Application site rash
+2841	Abnormal sleep-related event
+2842	Application site papules
+2843	Application site discolouration
+2844	Application site erosion
+2845	Carotid artery stenosis
+2846	Cervical dysplasia
+2847	Hyperparathyroidism
+2848	Hypertensive encephalopathy
+2849	Malignant ovarian cyst
+2850	Gastric cancer
+2851	Diverticulum intestinal
+2852	Fluorosis
+2853	Paracoccidioides infection
+2854	Periostitis
+2855	Blighted ovum
+2856	Microcytosis
+2857	Duodenal ulcer perforation
+2858	Electrocardiogram QT interval
+2859	Colour blindness acquired
+2860	Injection site abscess
+2861	Toxic shock syndrome
+2862	Application site paraesthesia
+2863	Application site vesicles
+2864	Application site induration
+2865	Intestinal diaphragm disease
+2866	Retrograde ejaculation
+2867	Blood pressure normal
+2868	Oral pruritus
+2869	Myopathy toxic
+2870	Mesenteric artery thrombosis
+2871	Catheter site phlebitis
+2872	Neuromyopathy
+2873	Retinal injury
+2874	Drug effect prolonged
+2875	Respiratory tract haemorrhage
+2876	Purine metabolism disorder
+2877	Respiratory tract oedema
+2878	Mastocytosis
+2879	Nipple pain
+2880	Chronic eosinophilic leukaemia
+2881	Haemorrhagic ovarian cyst
+2882	Tumour haemorrhage
+2883	Blood cortisol decreased
+2884	Oesophagitis ulcerative
+2885	Psychotic behaviour
+2886	Gingival recession
+2887	Haemarthrosis
+2888	Leukoplakia
+2889	Male orgasmic disorder
+2890	Spermatocele
+2891	Varicocele
+2892	Epiphyses premature fusion
+2893	Growth accelerated
+2894	Androgenetic alopecia
+2895	Depression suicidal
+2896	Clitoral engorgement
+2897	Application site oedema
+2898	Gingival swelling
+2899	Prostate infection
+2900	Cerebrovascular insufficiency
+2901	Lip ulceration
+2902	Wernicke-Korsakoff syndrome
+2903	Breast induration
+2904	Gingival oedema
+2905	Prostatic dysplasia
+2906	Haemoglobin abnormal
+2907	Nipple disorder
+2908	Blood urea normal
+2909	Penile pain
+2910	Pulmonary microemboli
+2911	Lipids abnormal
+2912	Erythropoiesis abnormal
+2913	Abdominal symptom
+2914	Buccal mucosal roughening
+2915	Lipids increased
+2916	Application site warmth
+2917	Oestradiol increased
+2918	Abnormal clotting factor
+2919	Gingival erythema
+2920	Gingival blister
+2921	Impatience
+2922	Free prostate-specific antigen increased
+2923	Prostate examination abnormal
+2924	Prostate induration
+2925	Application site exfoliation
+2926	Pulmonary oil microembolism
+2927	Anencephaly
+2928	Anophthalmos
+2929	Lipidosis
+2930	Polyarthritis
+2931	Hepatitis C antibody positive
+2932	Acanthosis nigricans
+2933	Xanthoma
+2934	Metabolic syndrome
+2935	Osteogenesis imperfecta
+2936	Oesophageal irritation
+2937	Anastomotic ulcer
+2938	Atypical fracture
+2939	Pneumonia mycoplasmal
+2940	Atypical pneumonia
+2941	Respiratory syncytial virus infection
+2942	Systemic inflammatory response syndrome
+2943	Parainfluenzae virus infection
+2944	Pneumonia fungal
+2945	Gastroenteritis adenovirus
+2946	Fungal sepsis
+2947	Escherichia sepsis
+2948	Enterococcal bacteraemia
+2949	Escherichia bacteraemia
+2950	Death
+2951	Adrenal atrophy
+2952	Ischaemic neuropathy
+2953	Eosinopenia
+2954	Chorioretinopathy
+2955	Oropharyngeal candidiasis
+2956	Substance-induced psychotic disorder
+2957	Mesothelioma
+2958	Odynophagia
+2959	Radiation oesophagitis
+2960	Glomerular filtration rate decreased
+2961	Extremity necrosis
+2962	Ocular surface disease
+2963	Mitochondrial toxicity
+2964	Uterine contractions during pregnancy
+2965	Diabetic retinopathy
+2966	Skin reaction
+2967	Quadriparesis
+2968	Macule
+2969	Gas gangrene
+2970	Skeletal injury
+2971	Injection site pallor
+2972	Injection site injury
+2973	Central nervous system haemorrhage
+2974	Cluster headache
+2975	Sensation of pressure
+2976	Pulse abnormal
+2977	Skin tightness
+2978	Musculoskeletal deformity
+2979	Phonophobia
+2980	Application site haematoma
+2981	Application site discomfort
+2982	Temporal arteritis
+2983	Nasal inflammation
+2984	Non-small cell lung cancer
+2985	Neutropenic colitis
+2986	Infusion site thrombosis
+2987	Vascular dementia
+2988	Lower gastrointestinal haemorrhage
+2989	Uterine cancer
+2990	Uterine polyp
+2991	Breast cancer male
+2992	Hepatic cyst
+2993	Sarcoma uterus
+2994	Oestrogenic effect
+2995	Endometrial adenocarcinoma
+2996	Diabetic vascular disorder
+2997	Fluid imbalance
+2998	Type IV hypersensitivity reaction
+2999	Meningitis cryptococcal
+3000	Hyposthenuria
+3001	Hyperfibrinogenaemia
+3002	Blood fibrinogen increased
+3003	Pelvic haemorrhage
+3004	Haemothorax
+3005	Blue toe syndrome
+3006	Athetosis
+3007	Mean arterial pressure decreased
+3008	Injection site coldness
+3009	Corneal abrasion
+3010	Hypouricaemia
+3011	Forced expiratory volume decreased
+3012	Epidermolysis bullosa
+3013	Electrolyte depletion
+3014	Pseudo-Bartter syndrome
+3015	Cardiopulmonary failure
+3016	Epidermal growth factor receptor decreased
+3017	Nasal obstruction
+3018	Viral skin infection
+3019	Pancreatic enzymes abnormal
+3020	Blood parathyroid hormone increased
+3021	Hyphaema
+3022	Bulimia nervosa
+3023	Chondropathy
+3024	Eclampsia
+3025	Genital disorder female
+3026	Genital disorder male
+3027	Laryngeal disorder
+3028	Postpartum disorder
+3029	Sweat gland disorder
+3030	Tooth malformation
+3031	Premature baby
+3032	Premature delivery
+3033	Reproductive tract disorder
+3034	Anisocytosis
+3035	Adrenergic syndrome
+3036	Lymphocyte count abnormal
+3037	Diabetes mellitus inadequate control
+3038	Negativism
+3039	Traumatic fracture
+3040	Anovulatory cycle
+3041	Sexually active
+3042	Thrombosis mesenteric vessel
+3043	Suppressed lactation
+3044	Benign hepatic neoplasm
+3045	Retinal vascular thrombosis
+3046	Lung neoplasm
+3047	Persistent foetal circulation
+3048	Papillary muscle rupture
+3049	Diabetic complication
+3050	Postinfarction angina
+3051	Vascular resistance systemic
+3052	Vascular resistance pulmonary increased
+3053	Albinism
+3054	Automatism
+3055	Hereditary angioedema
+3056	Bundle branch block left
+3057	Long QT syndrome
+3058	Pancreatic neoplasm
+3059	Injection site cyst
+3060	Congenital central nervous system anomaly
+3061	Platelet production decreased
+3062	Dandruff
+3063	Posture abnormal
+3064	Oropharyngeal spasm
+3065	Tongue spasm
+3066	Laryngotracheal oedema
+3067	Subcutaneous abscess
+3068	Osteodystrophy
+3069	Otitis media chronic
+3070	Risus sardonicus
+3071	Emprosthotonus
+3072	Pleurothotonus
+3073	Injection site ulcer
+3074	Antidiuretic hormone abnormality
+3075	Blood antidiuretic hormone abnormal
+3076	Long QT syndrome congenital
+3077	Glabellar reflex abnormal
+3078	Postural orthostatic tachycardia syndrome
+3079	Oculorespiratory syndrome
+3080	Acarodermatitis
+3081	Electrocardiogram QT interval abnormal
+3082	Head titubation
+3083	Plateletcrit decreased
+3084	Reproductive toxicity
+3085	Acne infantile
+3086	Application site folliculitis
+3087	Administration site infection
+3088	Morbid thoughts
+3089	Sputum discoloured
+3090	Hernia pain
+3091	Fungal test positive
+3092	Post-tussive vomiting
+3093	Zygomycosis
+3094	Toxic encephalopathy
+3095	Metaphyseal dysplasia
+3096	Gastroenteritis yersinia
+3097	Heat exhaustion
+3098	Arterial occlusive disease
+3099	Haemoglobin normal
+3100	Blood pH decreased
+3101	Carotid pulse
+3102	Breath holding
+3103	Postoperative ileus
+3104	Vasomotor rhinitis
+3105	Gastric ulcer perforation
+3106	Puncture site haemorrhage
+3107	Acquired haemophilia
+3108	Prothrombin time abnormal
+3109	Colon cancer
+3110	Blood bilirubin abnormal
+3111	Neutropenic infection
+3112	Hypoglycaemic coma
+3113	Insulin autoimmune syndrome
+3114	Haematotoxicity
+3115	Vitiligo
+3116	Urinary tract pain
+3117	Cervical polyp
+3118	Foetal disorder
+3119	Meningioma
+3120	Benign vaginal neoplasm
+3121	Breast oedema
+3122	Vaginal ulceration
+3123	Weight fluctuation
+3124	Breast malformation
+3125	Ectropion of cervix
+3126	Malignant mesenchymoma
+3127	Cervical discharge
+3128	Uterine pain
+3129	Blood oestrogen increased
+3130	Pleural infection
+3131	Vaginismus
+3132	Abnormal withdrawal bleeding
+3133	Purpura fulminans
+3134	Neutrophilia
+3135	Nephrosclerosis
+3136	Chronic sinusitis
+3137	Skin fragility
+3138	Angiodermatitis
+3139	Prothrombin time ratio
+3140	Psychosexual disorder
+3141	Tinea infection
+3142	Eosinophilic myocarditis
+3143	Pityriasis lichenoides et varioliformis acuta
+3144	Pseudomononucleosis
+3145	Fat necrosis
+3146	Pseudodementia
+3147	Complex regional pain syndrome
+3148	Cervicobrachial syndrome
+3149	Blood fibrinogen decreased
+3150	Ascariasis
+3151	Pneumonia bacterial
+3152	Type 1 diabetes mellitus
+3153	Cutaneous sarcoidosis
+3154	Vogt-Koyanagi-Harada syndrome
+3155	Enterobiasis
+3156	Cheilosis
+3157	Retinal exudates
+3158	Mononeuropathy
+3159	Injection site pruritus
+3160	CD4 lymphocytes decreased
+3161	Application site inflammation
+3162	Psychiatric evaluation abnormal
+3163	Thyroglobulin increased
+3164	Anti-thyroid antibody positive
+3165	Injection site dryness
+3166	Tongue pigmentation
+3167	Nail ridging
+3168	Gingival ulceration
+3169	Application site ulcer
+3170	Oral mucosal discolouration
+3171	Tongue blistering
+3172	Application site eczema
+3173	Oral pustule
+3174	Application site hypersensitivity
+3175	Intentional drug misuse
+3176	Intranasal hypoaesthesia
+3177	Renal function test abnormal
+3178	Accident at home
+3179	Joint related signs and symptoms
+3180	Blood count abnormal
+3181	Postoperative fever
+3182	Airway complication of anaesthesia
+3183	Moaning
+3184	Blood osmolarity increased
+3185	Emotional poverty
+3186	Floppy infant
+3187	Deficiency anaemia
+3188	Hepatic vein thrombosis
+3189	Vascular occlusion
+3190	Prostatism
+3191	Astrocytoma
+3192	Brain stem glioma
+3193	Polymorphic light eruption
+3194	Oedema mucosal
+3195	Bile duct disorders
+3196	Bullous impetigo
+3197	Kaposi's varicelliform eruption
+3198	Pancreatic pseudocyst
+3199	Quadriplegia
+3200	Gastrointestinal signs and symptoms
+3201	Urge incontinence
+3202	Fat tissue increased
+3203	Netherton's syndrome
+3204	Bile duct stenosis
+3205	Nerve compression
+3206	Pneumonia streptococcal
+3207	Gastrooesophagitis
+3208	Hepatic artery thrombosis
+3209	Electrocardiogram T wave abnormal
+3210	Echocardiogram abnormal
+3211	Mobility decreased
+3212	Febrile disorders
+3213	Gastrointestinal inflammatory conditions
+3214	Ischaemic coronary artery disorders
+3215	Paraesthesias and dysaesthesias
+3216	Speech and language abnormalities
+3217	Herpes dermatitis
+3218	Electrocardiogram ST segment abnormal
+3219	Eczema herpeticum
+3220	Graft dysfunction
+3221	Vascular hypotensive disorders
+3222	Cardiac hypertrophy
+3223	Anogenital warts
+3224	Diabetic nephropathy
+3225	Kaposi's sarcoma
+3226	Tinea versicolour
+3227	Papillary thyroid cancer
+3228	Post transplant lymphoproliferative disorder
+3229	Hypertensive nephropathy
+3230	Hepatosplenic T-cell lymphoma
+3231	Transplant rejection
+3232	Lymphocele
+3233	Mycobacterial infection
+3234	Alveolar proteinosis
+3235	Incisional hernia
+3236	Chronic allograft nephropathy
+3237	Tongue geographic
+3238	Oral mucosal exfoliation
+3239	Syphilis
+3240	Secondary syphilis
+3241	Puncture site pain
+3242	Muscle tone disorder
+3243	Amnestic symptoms
+3244	Lymphocyte transformation test positive
+3245	Chalazion
+3246	Enophthalmos
+3247	Trichorrhexis
+3248	Blepharal pigmentation
+3249	Conjunctival bleb
+3250	Instillation site irritation
+3251	Eyelash hyperpigmentation
+3252	Cholecystitis and cholelithiasis
+3253	Hypoparathyroidism
+3254	Hepatic enzyme abnormal
+3255	Injection site extravasation
+3256	Hypoglycaemic unconsciousness
+3257	Candida cervicitis
+3258	Pelvic discomfort
+3259	Anaphylactic responses
+3260	Refractory anaemia with an excess of blasts
+3261	Blastomycosis
+3262	Injection site granuloma
+3263	Myelodysplastic syndrome transformation
+3264	Injection site discolouration
+3265	Catheter site haemorrhage
+3266	Catheter site erythema
+3267	Leukaemia cutis
+3268	Anaphylactoid syndrome of pregnancy
+3269	Uterine rupture
+3270	Retained placenta or membranes
+3271	Cardiac enzymes increased
+3272	Abortion incomplete
+3273	Cytomegalovirus chorioretinitis
+3274	Facial wasting
+3275	Rheumatic disorder
+3276	Breast cancer stage IV
+3277	Nicotinic acid deficiency
+3278	Vitamin B6 deficiency
+3279	Eye burns
+3280	Palmar erythema
+3281	Neuropathic arthropathy
+3282	Hypopituitarism
+3283	Pituitary-dependent Cushing's syndrome
+3284	Injection site exfoliation
+3285	Urine calcium increased
+3286	Latent tuberculosis
+3287	Epidural lipomatosis
+3288	Tendon pain
+3289	Reticulocytopenia
+3290	Nocturnal dyspnoea
+3291	Panniculitis
+3292	Type IIa hyperlipidaemia
+3293	Electrocardiogram ST-T change
+3294	Conjunctival irritation
+3295	Ephelides
+3296	Solar lentigo
+3297	Liver abscess
+3298	Diffuse large B-cell lymphoma
+3299	Intestinal infections
+3300	Anal inflammation
+3301	Cytarabine syndrome
+3302	Bladder disorder
+3303	Oesophageal rupture
+3304	Congenital joint malformation
+3305	Endometrial hypertrophy
+3306	Freezing phenomenon
+3307	Osteochondrosis
+3308	Trigger finger
+3309	Cervix carcinoma stage 0
+3310	Occipital neuralgia
+3311	Chorioretinitis
+3312	Pulmonary thrombosis
+3313	Pericardial rub
+3314	Scrotal swelling
+3315	Blood urea abnormal
+3316	Blood glucose fluctuation
+3317	Pre-eclampsia
+3318	Multiple pregnancy
+3319	Cardiac output increased
+3320	Cardiac failure high output
+3321	Device related sepsis
+3322	Erythema infectiosum
+3323	Aphagia
+3324	Hypersplenism
+3325	Oestrogen deficiency
+3326	Delayed puberty
+3327	Pulmonary valve incompetence
+3328	Melanoderma
+3329	Peripheral artery thrombosis
+3330	Pulmonary ossification
+3331	Dystrophic calcification
+3332	Endocardial fibrosis
+3333	Restrictive cardiomyopathy
+3334	Acute graft versus host disease
+3335	Chronic graft versus host disease
+3336	Cytomegalovirus viraemia
+3337	Hyperuricosuria
+3338	Hyperparathyroidism primary
+3339	Autoimmune hepatitis
+3340	Pulse pressure decreased
+3341	Transaminases decreased
+3342	Multiple congenital abnormalities
+3343	Subacute endocarditis
+3344	Atypical mycobacterial infection
+3345	Respiratory moniliasis
+3346	Venous pressure increased
+3347	Ear malformation
+3348	Cytomegalovirus colitis
+3349	Parotid duct obstruction
+3350	Complications of transplant surgery
+3351	Cytomegalovirus gastritis
+3352	BK virus infection
+3353	Xeroderma
+3354	Pyogenic granuloma
+3355	Congenital skin disorder
+3356	Parkinsonian gait
+3357	Grimacing
+3358	Erythroleukaemia
+3359	Spleen palpable
+3360	Diverticular perforation
+3361	Bronchopneumopathy
+3362	Muscle necrosis
+3363	Radiation myelopathy
+3364	Muscle fibrosis
+3365	Hernia congenital
+3366	Benign gastrointestinal neoplasm
+3367	Dacryocystitis
+3368	Conjunctival cyst
+3369	Blepharitis allergic
+3370	Corneal defect
+3371	Immunosuppression
+3372	AIDS dementia complex
+3373	Bronchopulmonary dysplasia
+3374	Periventricular leukomalacia
+3375	Mixed connective tissue disease
+3376	Intraventricular haemorrhage
+3377	Toxic neuropathy
+3378	Intermittent explosive disorder
+3379	Vulvovaginal swelling
+3380	Mucocutaneous candidiasis
+3381	Dreamy state
+3382	Haemorrhage urinary tract
+3383	Incomplete precocious puberty
+3384	Dermatophytosis
+3385	Staphylococcal scalded skin syndrome
+3386	Deficiency of bile secretion
+3387	Radial nerve palsy
+3388	Autoimmune thrombocytopenia
+3389	Evans syndrome
+3390	Developmental coordination disorder
+3391	Myoclonic epilepsy
+3392	Hamartoma
+3393	Congenital oral malformation
+3394	Dentofacial anomaly
+3395	Congenital genital malformation
+3396	Limb malformation
+3397	Postictal state
+3398	Haemangioma congenital
+3399	Low set ears
+3400	Limb reduction defect
+3401	Supernumerary nipple
+3402	Congenital hydronephrosis
+3403	Congenital vesicoureteric reflux
+3404	Croup infectious
+3405	Talipes
+3406	Developmental hip dysplasia
+3407	Renal aplasia
+3408	Dysmorphism
+3409	Foetal anticonvulsant syndrome
+3410	Cytotoxic oedema
+3411	Abasia
+3412	Menopausal disorder
+3413	Macular hole
+3414	Ciliary muscle spasm
+3415	Malignant hypertension
+3416	Urine phosphorus increased
+3417	Sperm concentration
+3418	Juvenile idiopathic arthritis
+3419	Intertrigo
+3420	Somatoform disorder
+3421	Toxic dilatation of intestine
+3422	Scratch
+3423	Food intolerance
+3424	Adhesion
+3425	Hepatic adenoma
+3426	Cerebral vasoconstriction
+3427	Intertrigo candida
+3428	Jarisch-Herxheimer reaction
+3429	Palpable purpura
+3430	Rebound effect
+3431	Gastrooesophageal sphincter insufficiency
+3432	Allergic hepatitis
+3433	Hepatitis alcoholic
+3434	Polyserositis
+3435	Corneal degeneration
+3436	Bone marrow granuloma
+3437	Demyelinating polyneuropathy
+3438	Pulseless electrical activity
+3439	Solar dermatitis
+3440	Lipid metabolism disorder
+3441	Nipple swelling
+3442	Semen volume decreased
+3443	Ileal ulcer
+3444	Bicytopenia
+3445	Glycosylated haemoglobin decreased
+3446	Hepatic enzyme decreased
+3447	Hepatic congestion
+3448	Ischaemic cardiomyopathy
+3449	Cardioactive drug level increased
+3450	Gonorrhoea
+3451	Chemical eye injury
+3452	Muscle enzyme increased
+3453	Sleep paralysis
+3454	Infective tenosynovitis
+3455	Cellulitis staphylococcal
+3456	Lung adenocarcinoma stage I
+3457	Joint range of motion decreased
+3458	Blood pressure inadequately controlled
+3459	Electrocardiogram ST-T segment abnormal
+3460	Female sexual arousal disorder
+3461	Pelvic infection
+3462	Sebaceous gland disorder
+3463	Trichotillomania
+3464	Vocal cord disorder
+3465	Painful ejaculation
+3466	Conjunctivitis infective
+3467	Breast calcifications
+3468	Gastritis viral
+3469	Rubber sensitivity
+3470	Animal scratch
+3471	Feelings of worthlessness
+3472	Social avoidant behaviour
+3473	Injection site joint pain
+3474	Neurological examination abnormal
+3475	Infrequent bowel movements
+3476	Encephalocele
+3477	Implant site reaction
+3478	Pneumocystis jirovecii infection
+3479	Poikilocytosis
+3480	Vitamin K deficiency
+3481	Anaemia neonatal
+3482	Echolalia
+3483	Acute promyelocytic leukaemia
+3484	Pelvic neoplasm
+3485	Aminoaciduria
+3486	Blood oestrogen decreased
+3487	Blood gonadotrophin increased
+3488	Cerebral arteriosclerosis
+3489	Febrile bone marrow aplasia
+3490	Ovulation disorder
+3491	Renal rickets
+3492	Collagen-vascular disease
+3493	Defect conduction intraventricular
+3494	Atrial hypertrophy
+3495	Cardioactive drug level above therapeutic
+3496	Cervix carcinoma
+3497	Bone sarcoma
+3498	Ammonia increased
+3499	Ventricular failure
+3500	Ventricular hypokinesia
+3501	Coagulation test abnormal
+3502	Vulvovaginitis trichomonal
+3503	Vulvovaginal erythema
+3504	Foreign body in eye
+3505	Pterygium
+3506	Subconjunctival cyst
+3507	Deposit eye
+3508	Scleral pigmentation
+3509	Optic nerve cupping
+3510	Cardio-respiratory distress
+3511	Renovascular hypertension
+3512	Acromegaly
+3513	Ergot poisoning
+3514	Superior sagittal sinus thrombosis
+3515	Community acquired infection
+3516	Progesterone
+3517	Foot and mouth disease
+3518	Platelet count abnormal
+3519	Erythrasma
+3520	Transient cerebrovascular events
+3521	Penile discharge
+3522	Choluria
+3523	Gastrointestinal fistula
+3524	Electrocardiogram QRS complex prolonged
+3525	Drug screen positive
+3526	Metabolic encephalopathy
+3527	Cryptosporidiosis infection
+3528	Squamous cell carcinoma of lung
+3529	Coronary artery stenosis
+3530	Skin fibrosis
+3531	Visual evoked potentials abnormal
+3532	Nail discomfort
+3533	Vocal cord paresis
+3534	Metastatic pain
+3535	Nail bed tenderness
+3536	B-cell type acute leukaemia
+3537	Factor XI deficiency
+3538	Acquired lipoatrophic diabetes
+3539	Congenital generalised lipodystrophy
+3540	Occupational exposures
+3541	Fluoride increased
+3542	Coccydynia
+3543	Joint contracture
+3544	Eye penetration
+3545	Jaw disorder
+3546	Kyphosis
+3547	Tuberculin test positive
+3548	Schizoaffective disorder
+3549	Body tinea
+3550	Mendelson's syndrome
+3551	Urethral discharge
+3552	Clavicle fracture
+3553	Suspiciousness
+3554	Dizziness exertional
+3555	Tonsillar hypertrophy
+3556	Early menarche
+3557	Tongue dry
+3558	Akinaesthesia
+3559	Pharyngeal erythema
+3560	Ear canal erythema
+3561	Periorbital haematoma
+3562	Blood prolactin decreased
+3563	Blood creatine phosphokinase abnormal
+3564	Blood creatine phosphokinase MB increased
+3565	Blood triglycerides decreased
+3566	Temperature regulation disorder
+3567	Eyelid function disorder
+3568	Mastication disorder
+3569	Diet refusal
+3570	Urine ketone body present
+3571	Decreased immune responsiveness
+3572	Vessel puncture site bruise
+3573	Hypophagia
+3574	Bacterial test positive
+3575	Gaze palsy
+3576	Head lag abnormal
+3577	ECG signs of myocardial ischaemia
+3578	Blood cholesterol decreased
+3579	Waist circumference increased
+3580	Waxy flexibility
+3581	Stomach dilation procedure
+3582	Gastric dilatation
+3583	Hypnagogic hallucination
+3584	Uterine inflammation
+3585	Fat intolerance
+3586	Nail toxicity
+3587	Penile oedema
+3588	Urticaria vesiculosa
+3589	Epidural haemorrhage
+3590	Skin swelling
+3591	Protein-losing gastroenteropathy
+3592	Milia
+3593	Intra-abdominal haematoma
+3594	Diastolic dysfunction
+3595	Systemic lupus erythematosus rash
+3596	Platelet aggregation abnormal
+3597	Troponin increased
+3598	Enterocolitis infectious
+3599	Helicobacter gastritis
+3600	Gastric ulcer helicobacter
+3601	Blood gonadotrophin decreased
+3602	Urinary tract obstruction
+3603	Mononeuritis
+3604	Hyperproteinaemia
+3605	Glucocorticoids decreased
+3606	Drug level changed
+3607	Severe acute respiratory syndrome
+3608	Aortic valve sclerosis
+3609	Pancreatitis chronic
+3610	Encephalitis cytomegalovirus
+3611	Pharyngeal lesion
+3612	Ischaemic cerebral infarction
+3613	Insulin C-peptide increased
+3614	Oromandibular dystonia
+3615	Rectal abscess
+3616	Gingival abscess
+3617	Apoptosis
+3618	Pancreatic abscess
+3619	Perineal abscess
+3620	Anal abscess
+3621	Splinter haemorrhages
+3622	Abdominal sepsis
+3623	Frustration
+3624	Urethral syndrome
+3625	Epidermal and dermal conditions
+3626	Salivary gland conditions
+3627	Respiratory disorders NEC
+3628	Ocular vascular disorder
+3629	Neurological disorders NEC
+3630	Paradoxical pressor response
+3631	Delayed recovery from anaesthesia
+3632	Hydroureter
+3633	Axonal neuropathy
+3634	Accident
+3635	Abdominal infection
+3636	Penile infection
+3637	Granulocytosis
+3638	Haemobilia
+3639	Protein C deficiency
+3640	Glioblastoma
+3641	Histiocytosis
+3642	Cirrhosis alcoholic
+3643	Spondyloarthropathy
+3644	Spondylitis
+3645	Blood luteinising hormone increased
+3646	Hypogonadism male
+3647	Renal vein thrombosis
+3648	Glomerulonephropathy
+3649	Metastatic malignant melanoma
+3650	Lymphorrhoea
+3651	Renal artery thrombosis
+3652	Renal haemorrhage
+3653	Perirenal haematoma
+3654	Chronic hepatic failure
+3655	Lymphangioleiomyomatosis
+3656	Blood follicle stimulating hormone increased
+3657	Graft thrombosis
+3658	Colorectal cancer metastatic
+3659	Incision site pain
+3660	Perinephric collection
+3661	Localised intraabdominal fluid collection
+3662	Infection reactivation
+3663	Blood copper decreased
+3664	Copper deficiency
+3665	Delirium tremens
+3666	Cytomegalovirus syndrome
+3667	Erythema annulare
+3668	Lividity
+3669	Macular pigmentation
+3670	Female orgasmic disorder
+3671	Lacunar infarction
+3672	Lumbar radiculopathy
+3673	Koebner phenomenon
+3674	Eosinophilic cystitis
+3675	Bowen's disease
+3676	Meningitis viral
+3677	Sweat gland tumour
+3678	Tongue neoplasm
+3679	Treponema infections
+3680	Proctitis herpes
+3681	Infective myositis
+3682	Anaplastic large-cell lymphoma
+3683	Cholangiocarcinoma
+3684	Bronchitis bacterial
+3685	Anal cancer
+3686	Metastases to peritoneum
+3687	Bile duct cancer
+3688	Anaemias NEC
+3689	Endocrine neoplasms malignant and unspecified
+3690	Gastrointestinal signs and symptoms NEC
+3691	Neisseria infection
+3692	Apocrine and eccrine gland disorders
+3693	Sinobronchitis
+3694	Ear disorders NEC
+3695	Viral infections NEC
+3696	Bacterial infections NEC
+3697	Vascular hypertensive disorders
+3698	Bile duct neoplasms malignant
+3699	Aortic arteriosclerosis
+3700	Nasopharyngeal cancer
+3701	Mechanical urticaria
+3702	Urticaria physical
+3703	Body temperature altered
+3704	Hyperparathyroidism secondary
+3705	Paraproteinaemia
+3706	Shock haemorrhagic
+3707	Globulins decreased
+3708	Sebaceous hyperplasia
+3709	Blood insulin decreased
+3710	Insulin C-peptide decreased
+3711	Peripheral artery stenosis
+3712	Oral papilloma
+3713	Scrotal pain
+3714	Partner stress
+3715	Sexual desire disorders
+3716	Serum ferritin decreased
+3717	Application and instillation site reactions
+3718	Subcutaneous haematoma
+3719	Intracardiac thrombus
+3720	Osmotic demyelination syndrome
+3721	Salmonella sepsis
+3722	Plantar erythema
+3723	Enterocutaneous fistula
+3724	Ileal perforation
+3725	Blood albumin increased
+3726	Hyperalbuminaemia
+3727	Bronchial haemorrhage
+3728	Bloody discharge
+3729	Post procedural discharge
+3730	Embolic stroke
+3731	Post procedural haematoma
+3732	Haemorrhagic erosive gastritis
+3733	Spinal cord haemorrhage
+3734	Graft complication
+3735	Lymph node abscess
+3736	Lymph node pain
+3737	Submandibular mass
+3738	Body fat disorder
+3739	Blood iron abnormal
+3740	Catheter site infection
+3741	Conjunctival ulcer
+3742	Small intestine ulcer
+3743	Large intestinal ulcer
+3744	Dyshidrotic eczema
+3745	Lichenification
+3746	Application site atrophy
+3747	Atopy
+3748	Asteatosis
+3749	Eczema infected
