@@ -1621,9 +1621,9 @@ if __name__ == '__main__':
 	# print("Generating a linear Kernels...")
 	# OutputLinearKernelMatrix(P_CommonAttributeMatrix,JointQ_AttributeMatrix,AdverseInteractionDataset)
 
-	# Polynomial Kernel Function
-	print("Generating 120 Polynomial Kernels...")
-	OutputPolynomialKernelMatrix(P_CommonAttributeMatrix,JointQ_AttributeMatrix,AdverseInteractionDataset)
+	# # Polynomial Kernel Function
+	# print("Generating 120 Polynomial Kernels...")
+	# OutputPolynomialKernelMatrix(P_CommonAttributeMatrix,JointQ_AttributeMatrix,AdverseInteractionDataset)
 	
 	# # Gaussian Kernel Function
 	# print("Generating 13 Gaussian Kernels...")
