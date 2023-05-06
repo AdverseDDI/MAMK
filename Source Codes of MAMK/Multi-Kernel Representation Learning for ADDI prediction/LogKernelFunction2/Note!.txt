@@ -1,0 +1,4 @@
+Execute lines 1660-1662 of KernelFunctionLearning.py for generating the 4 Kernel Matrices of Log_2 Kernel 
+
+2 Kernel Matrices are in terms of shared attribute representations with 1 file with suffix of '.nyp' and 1 file with suffix of 'txt'.
+2 Kernel Matrices are in terms of specific attribute representations with 1 file with suffix of '.nyp' and 1 file with suffix of 'txt'.

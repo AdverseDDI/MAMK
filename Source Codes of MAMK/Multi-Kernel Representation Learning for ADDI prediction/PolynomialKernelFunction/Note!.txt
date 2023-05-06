@@ -1,0 +1,5 @@
+Execute lines 1624-1626 of KernelFunctionLearning.py for generating the 480 Kernel Matrices of Polynomial Kernel
+
+240 Kernel Matrices are in terms of shared attribute representations with 120 files with suffix of '.nyp' and 120 files with suffix of 'txt'.
+
+240 Kernel Matrices are in terms of specific attribute representations with 120 files with suffix of '.nyp' and 120 files with suffix of 'txt'.

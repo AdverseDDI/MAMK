@@ -1,0 +1,4 @@
+Execute lines 1632-1634 of KernelFunctionLearning.py for generating the 52 Kernel Matrices of Exponential Kernel 
+
+26 Kernel Matrices are in terms of shared attribute representations with 13 files with suffix of '.nyp' and 13 files with suffix of 'txt'.
+26 Kernel Matrices are in terms of specific attribute representations with 13 files with suffix of '.nyp' and 13 files with suffix of 'txt'.

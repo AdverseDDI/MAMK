@@ -1,0 +1,4 @@
+Execute lines 1676-1678 of KernelFunctionLearning.py for generating the 400 Kernel Matrices of Generalized Histogram Kernel 
+
+200 Kernel Matrices are in terms of shared attribute representations with 100 files with suffix of '.nyp' and 100 files with suffix of 'txt'.
+200 Kernel Matrices are in terms of specific attribute representations with 100 files with suffix of '.nyp' and 100 files with suffix of 'txt'.

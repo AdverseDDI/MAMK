@@ -701,7 +701,7 @@ def LearningProcessforUpdateParameters(DrugMolecularStructureExistingMatrix,H_Ex
 			np.savetxt(Address+'Q_Target.txt',Q_Target)
 
 			np.save(Address+'Q_Pathway',Q_Pathway)
-			np.savetxt(Address+'Q_PathwayFilled.txt',Q_Pathway)
+			np.savetxt(Address+'Q_Pathway.txt',Q_Pathway)
 
 			np.save(Address+'Q_SideEffect',Q_SideEffect)
 			np.savetxt(Address+'Q_SideEffect.txt',Q_SideEffect)

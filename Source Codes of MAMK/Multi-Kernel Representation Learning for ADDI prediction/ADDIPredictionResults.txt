@@ -1,0 +1,2 @@
+Lambda	Mu	UsedTopKernel	Specificity	Precision	F_score	Accuracy	AUC	AUPR
+Lambda=0.001000	Mu=10.000000	UsedTopKernel=66.000000	Specificity=0.976357	Precision=0.956224	F-score=0.783009	Accuracy=0.899514	AUC=0.879683	AUPR=0.834972

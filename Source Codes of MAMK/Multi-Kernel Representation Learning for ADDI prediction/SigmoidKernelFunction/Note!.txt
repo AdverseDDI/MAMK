@@ -1,0 +1,4 @@
+Execute lines 1640-1642 of KernelFunctionLearning.py for generating the 240 Kernel Matrices of Sigmoid Kernel 
+
+120 Kernel Matrices are in terms of shared attribute representations with 60 files with suffix of '.nyp' and 60 files with suffix of 'txt'.
+120 Kernel Matrices are in terms of specific attribute representations with 60 files with suffix of '.nyp' and 60 files with suffix of 'txt'.

@@ -1,0 +1,1307 @@
+0	10003239	Arthralgia
+1	10012735	Diarrhoea
+2	10019211	Headache
+3	10047700	Vomiting
+4	10013946	Dyspepsia
+5	10062237	Renal impairment
+6	10011224	Cough
+7	10039101	Rhinorrhoea
+8	10062355	Unevaluable event
+9	10025482	Malaise
+10	10003988	Back pain
+11	10016807	Fluid retention
+12	10030124	Oedema peripheral
+13	10030095	Oedema
+14	10033295	Overdose
+15	10011906	Death
+16	10008190	Cerebrovascular accident
+17	10033371	Pain
+18	10064355	Incorrect dose administered
+19	10052428	Wound
+20	10016256	Fatigue
+21	10017885	Gastrooesophageal reflux disease
+22	10040753	Sinusitis
+23	10016173	Fall
+24	10058117	Ocular icterus
+25	10006002	Bone pain
+26	10028813	Nausea
+27	10033775	Paraesthesia
+28	10049438	General physical health deterioration
+29	10000081	Abdominal pain
+30	10002855	Anxiety
+31	10049119	Emotional distress
+32	10022116	Injury
+33	10027175	Memory impairment
+34	10037844	Rash
+35	10001551	Alanine aminotransferase increased
+36	10013687	Drug eruption
+37	10008479	Chest pain
+38	10013968	Dyspnoea
+39	10042209	Stress
+40	10003549	Asthenia
+41	10012378	Depression
+42	10013911	Dysgeusia
+43	10047895	Weight decreased
+44	10037087	Pruritus
+45	10016322	Feeling abnormal
+46	10028334	Muscle spasms
+47	10029412	Nightmare
+48	10010904	Convulsion
+49	10020642	Hyperhidrosis
+50	10046555	Urinary retention
+51	10013573	Dizziness
+52	10018884	Haemoglobin decreased
+53	10047942	White blood cell count decreased
+54	10006784	Burning sensation
+55	10016825	Flushing
+56	10061114	Economic problem
+57	10002511	Anhedonia
+58	10017955	Gastrointestinal haemorrhage
+59	10003664	Atrial septal defect
+60	10012374	Depressed mood
+61	10013709	Drug ineffective
+62	10051055	Deep vein thrombosis
+63	10020100	Hip fracture
+64	10022086	Injection site pain
+65	10022437	Insomnia
+66	10022687	Intestinal obstruction
+67	10028391	Musculoskeletal pain
+68	10028735	Nasal congestion
+69	10028836	Neck pain
+70	10039227	Rotator cuff syndrome
+71	10041569	Spinal fracture
+72	10037867	Rash macular
+73	10015150	Erythema
+74	10022998	Irritability
+75	10024384	Leukopenia
+76	10022093	Injection site pruritus
+77	10002034	Anaemia
+78	10042458	Suicidal ideation
+79	10043554	Thrombocytopenia
+80	10008611	Cholecystectomy
+81	10061822	Drug intolerance
+82	10017853	Gastritis
+83	10020772	Hypertension
+84	10031161	Osteoarthritis
+85	10049088	Osteopenia
+86	10039117	Rib fracture
+87	10041591	Spinal osteoarthritis
+88	10002368	Anger
+89	10014011	Ear infection
+90	10039073	Rheumatoid arthritis
+91	10003246	Arthritis
+92	10012601	Diabetes mellitus
+93	10000059	Abdominal discomfort
+94	10028810	Nasopharyngitis
+95	10033425	Pain in extremity
+96	10001488	Aggression
+97	10014551	Emotional disorder
+98	10018800	Gynaecomastia
+99	10027599	Migraine
+100	10029883	Obesity
+101	10043118	Tardive dyskinesia
+102	10000087	Abdominal pain upper
+103	10017822	Gastric ulcer
+104	10028154	Multi-organ failure
+105	10042361	Subdural haematoma
+106	10046274	Upper gastrointestinal haemorrhage
+107	10013395	Disorientation
+108	10024855	Loss of consciousness
+109	10041349	Somnolence
+110	10039203	Road traffic accident
+111	10010305	Confusional state
+112	10019304	Heart rate irregular
+113	10053762	Off label use
+114	10035528	Platelet count decreased
+115	10047943	White blood cell count increased
+116	10044565	Tremor
+117	10049866	Aphagia
+118	10021789	Infection
+119	10029354	Neutropenia
+120	10018836	Haematochezia
+121	10038063	Rectal haemorrhage
+122	10047513	Vision blurred
+123	10047531	Visual acuity reduced
+124	10064353	Wrong technique in drug usage process
+125	10054112	Hospitalisation
+126	10061218	Inflammation
+127	10020937	Hypoaesthesia
+128	10048334	Mobility decreased
+129	10028411	Myalgia
+130	10010741	Conjunctivitis
+131	10008469	Chest discomfort
+132	10047461	Viral infection
+133	10019303	Heart rate increased
+134	10052904	Musculoskeletal stiffness
+135	10035664	Pneumonia
+136	10037660	Pyrexia
+137	10010264	Condition aggravated
+138	10061818	Disease progression
+139	10064911	Pulmonary arterial hypertension
+140	10003445	Ascites
+141	10007554	Cardiac failure
+142	10038435	Renal failure
+143	10003658	Atrial fibrillation
+144	10064684	Device dislocation
+145	10039580	Scar
+146	10005557	Blood glucose increased
+147	10019663	Hepatic failure
+148	10003553	Asthma
+149	10060933	Adverse event
+150	10009866	Cold sweat
+151	10013036	Diplopia
+152	10021114	Hypothyroidism
+153	10002383	Angina pectoris
+154	10033661	Pancytopenia
+155	10047924	Wheezing
+156	10025102	Lung infiltration
+157	10064658	Osteonecrosis of jaw
+158	10062519	Poor quality sleep
+159	10007739	Cataract
+160	10061428	Decreased appetite
+161	10013781	Dry mouth
+162	10013971	Dyspnoea exertional
+163	10014020	Ear pain
+164	10020635	Hyperglycaemia
+165	10021015	Hypokalaemia
+166	10031009	Oral pain
+167	10033433	Pain in jaw
+168	10036018	Pollakiuria
+169	10040560	Shock
+170	10040829	Skin discolouration
+171	10041235	Snoring
+172	10046543	Urinary incontinence
+173	10046735	Urticaria
+174	10028372	Muscular weakness
+175	10045285	Ulcer
+176	10013554	Diverticulum
+177	10020993	Hypoglycaemia
+178	10056819	Gastric disorder
+179	10029148	Nephrolithiasis
+180	10031282	Osteoporosis
+181	10033645	Pancreatitis
+182	10008531	Chills
+183	10017577	Gait disturbance
+184	10022004	Influenza like illness
+185	10044055	Toothache
+186	10012373	Depressed level of consciousness
+187	10058080	Staphylococcal infection
+188	10043882	Tinnitus
+189	10070863	Toxicity to various agents
+190	10027940	Mood altered
+191	10034474	Pericardial effusion
+192	10013654	Drug abuse
+193	10021143	Hypoxia
+194	10038436	Renal failure acute
+195	10039020	Rhabdomyolysis
+196	10042128	Stomatitis
+197	10037423	Pulmonary oedema
+198	10018304	Glaucoma
+199	10049848	Balance disorder
+200	10037368	Pulmonary congestion
+201	10016334	Feeling hot
+202	10006580	Bundle branch block left
+203	10009033	Chronic obstructive pulmonary disease
+204	10020646	Hyperkalaemia
+205	10042772	Syncope
+206	10046306	Upper respiratory tract infection
+207	10051398	Malignant neoplasm progression
+208	10012318	Dental caries
+209	10013538	Diverticulitis
+210	10013678	Drug effect decreased
+211	10017944	Gastrointestinal disorder
+212	10020028	Hiatus hernia
+213	10022095	Injection site reaction
+214	10028034	Mouth ulceration
+215	10022000	Influenza
+216	10029223	Neuralgia
+217	10029331	Neuropathy peripheral
+218	10031252	Osteomyelitis
+219	10062544	Tooth fracture
+220	10040984	Sleep disorder
+221	10013710	Drug interaction
+222	10019641	Hepatic cirrhosis
+223	10024264	Lethargy
+224	10005750	Blood pressure increased
+225	10010774	Constipation
+226	10018388	Glossodynia
+227	10047899	Weight increased
+228	10005724	Blood potassium decreased
+229	10007882	Cellulitis
+230	10015688	Exostosis
+231	10048685	Oral infection
+232	10044016	Tooth abscess
+233	10011469	Crying
+234	10050296	Intervertebral disc protrusion
+235	10042674	Swelling
+236	10027452	Metastases to bone
+237	10063743	Hypophagia
+238	10040047	Sepsis
+239	10068319	Oropharyngeal pain
+240	10013950	Dysphagia
+241	10014080	Ecchymosis
+242	10015993	Eyelid oedema
+243	10036790	Productive cough
+244	10005956	Bone disorder
+245	10033664	Panic attack
+246	10015090	Epistaxis
+247	10024770	Local swelling
+248	10043607	Thrombosis
+249	10038695	Respiratory failure
+250	10042464	Suicide attempt
+251	10033647	Pancreatitis acute
+252	10036653	Presyncope
+253	10037377	Pulmonary embolism
+254	10026749	Mania
+255	10033557	Palpitations
+256	10061024	Cardiac disorder
+257	10013916	Dyskinesia
+258	10029216	Nervousness
+259	10052302	Impaired work ability
+260	10010214	Compression fracture
+261	10038683	Respiratory disorder
+262	10035598	Pleural effusion
+263	10050256	Dysstasia
+264	10005483	Blood creatinine increased
+265	10007617	Cardio-respiratory arrest
+266	10048294	Mental status changes
+267	10015916	Eye disorder
+268	10030041	Ocular hyperaemia
+269	10050528	Ejection fraction decreased
+270	10024378	Leukocytosis
+271	10005191	Blister
+272	10013754	Drug withdrawal syndrome
+273	10027951	Mood swings
+274	10067621	Oral disorder
+275	10006093	Bradycardia
+276	10014387	Electrocardiogram QT prolonged
+277	10047340	Vertigo
+278	10019842	Hepatomegaly
+279	10041660	Splenomegaly
+280	10060800	Hot flush
+281	10063670	No therapeutic response
+282	10003673	Atrioventricular block complete
+283	10007515	Cardiac arrest
+284	10011086	Coronary artery occlusion
+285	10011089	Coronary artery stenosis
+286	10018838	Haematocrit decreased
+287	10040741	Sinus bradycardia
+288	10040752	Sinus tachycardia
+289	10013990	Dysuria
+290	10028596	Myocardial infarction
+291	10000060	Abdominal distension
+292	10013663	Drug dependence
+293	10055798	Haemorrhage
+294	10030216	Oesophagitis
+295	10038444	Renal failure chronic
+296	10007559	Cardiac failure congestive
+297	10011078	Coronary artery disease
+298	10019075	Hallucination
+299	10013887	Dysarthria
+300	10021639	Incontinence
+301	10028600	Myocardial ischaemia
+302	10024774	Localised infection
+303	10061623	Adverse drug reaction
+304	10057840	Major depression
+305	10024690	Liver function test abnormal
+306	10007632	Cardiomegaly
+307	10022611	Interstitial lung disease
+308	10016766	Flatulence
+309	10061200	Heart injury
+310	10027727	Mitral valve incompetence
+311	10037400	Pulmonary hypertension
+312	10006451	Bronchitis
+313	10057362	Underdose
+314	10003481	Aspartate aminotransferase increased
+315	10021097	Hypotension
+316	10001854	Altered state of consciousness
+317	10005169	Blindness
+318	10000125	Abnormal dreams
+319	10022523	Intentional overdose
+320	10030963	Oral candidiasis
+321	10014625	Encephalopathy
+322	10040943	Skin ulcer
+323	10023644	Lacrimation increased
+324	10033318	Oxygen saturation decreased
+325	10061461	Erectile dysfunction
+326	10071014	Exposed bone in jaw
+327	10019708	Hepatic steatosis
+328	10003119	Arrhythmia
+329	10003598	Atelectasis
+330	10061406	Cardiac valve disease
+331	10010719	Conjunctival haemorrhage
+332	10011878	Deafness
+333	10058108	Dyslipidaemia
+334	10017888	Gastroenteritis
+335	10018276	Gingival bleeding
+336	10018867	Haematuria
+337	10019022	Haemorrhoids
+338	10019646	Hepatic cyst
+339	10020583	Hypercalcaemia
+340	10062060	Hyperlipidaemia
+341	10020850	Hyperthyroidism
+342	10021036	Hyponatraemia
+343	10049773	Left ventricular hypertrophy
+344	10024419	Libido decreased
+345	10035226	Plasma cell myeloma
+346	10040882	Skin lesion
+347	10043071	Tachycardia
+348	10043744	Thyroid neoplasm
+349	10048762	Tooth infection
+350	10044044	Tooth loss
+351	10044640	Tricuspid valve incompetence
+352	10003285	Arthropathy
+353	10038428	Renal disorder
+354	10044034	Tooth disorder
+355	10005425	Blood cholesterol increased
+356	10002958	Aphthous stomatitis
+357	10020466	Hunger
+358	10038776	Retching
+359	10021519	Impaired healing
+360	10043248	Tendon rupture
+361	10026882	Mastication disorder
+362	10000891	Acute myocardial infarction
+363	10001053	Acute respiratory failure
+364	10009802	Coagulopathy
+365	10063829	Device malfunction
+366	10014561	Emphysema
+367	10015856	Extrasystoles
+368	10016803	Fluid overload
+369	10018280	Gingival disorder
+370	10018852	Haematoma
+371	10027417	Metabolic acidosis
+372	10057372	Paraesthesia oral
+373	10034674	Peritonitis
+374	10037383	Pulmonary fibrosis
+375	10037569	Purulent discharge
+376	10047302	Ventricular tachycardia
+377	10009887	Colitis
+378	10039897	Sedation
+379	10013442	Disseminated intravascular coagulation
+380	10023126	Jaundice
+381	10040742	Sinus congestion
+382	10059570	Blood alkaline phosphatase increased
+383	10011781	Cystitis
+384	10015958	Eye pain
+385	10016092	Faecal incontinence
+386	10027374	Mental impairment
+387	10041101	Small intestinal obstruction
+388	10047571	Visual impairment
+389	10048706	Joint range of motion decreased
+390	10006895	Cachexia
+391	10030973	Oral discomfort
+392	10034263	Pelvic pain
+393	10043709	Thyroid disorder
+394	10048629	Wound secretion
+395	10059245	Angiopathy
+396	10005555	Blood glucose decreased
+397	10025082	Lung disorder
+398	10060862	Prostate cancer
+399	10025197	Lymphadenopathy
+400	10049564	Impaired driving ability
+401	10005802	Blood sodium decreased
+402	10000880	Acute myeloid leukaemia
+403	10043458	Thirst
+404	10028641	Myopathy
+405	10005364	Blood bilirubin increased
+406	10047295	Ventricular hypertrophy
+407	10003591	Ataxia
+408	10049803	Blood glucose fluctuation
+409	10017626	Gallbladder disorder
+410	10016642	Fibrosis
+411	10027459	Metastases to lymph nodes
+412	10061394	Upper limb fracture
+413	10003662	Atrial flutter
+414	10049414	Treatment noncompliance
+415	10038743	Restlessness
+416	10028347	Muscle twitching
+417	10061599	Lower limb fracture
+418	10031123	Orthopnoea
+419	10000084	Abdominal pain lower
+420	10018830	Haematemesis
+421	10007649	Cardiovascular disorder
+422	10061257	Jaw disorder
+423	10019717	Hepatitis
+424	10022595	International normalised ratio increased
+425	10016288	Febrile neutropenia
+426	10013050	Disability
+427	10034539	Periodontitis
+428	10038540	Renal tubular necrosis
+429	10009944	Colon cancer
+430	10012442	Dermatitis contact
+431	10009657	Clostridium difficile colitis
+432	10036556	Pregnancy
+433	10061520	Ill-defined disorder
+434	10023003	Irritable bowel syndrome
+435	10067585	Type 2 diabetes mellitus
+436	10006825	C-reactive protein increased
+437	10050953	Lower gastrointestinal haemorrhage
+438	10018870	Blood urine present
+439	10017865	Gastritis erosive
+440	10011703	Cyanosis
+441	10023424	Kidney infection
+442	10037855	Rash erythematous
+443	10020679	Hypernatraemia
+444	10028997	Neoplasm malignant
+445	10041549	Spinal cord compression
+446	10066152	Transfusion
+447	10000486	Acidosis
+448	10009192	Circulatory collapse
+449	10056407	Refusal of treatment by patient
+450	10033864	Paranoia
+451	10012689	Diabetic retinopathy
+452	10061309	Neoplasm progression
+453	10018286	Gingival pain
+454	10017693	Gamma-glutamyltransferase increased
+455	10042604	Supraventricular tachycardia
+456	10025310	Lymphoma
+457	10005851	Blood urea increased
+458	10012271	Dementia Alzheimer's type
+459	10047289	Ventricular extrasystoles
+460	10015995	Eyelid ptosis
+461	10042316	Subarachnoid haemorrhage
+462	10001507	Agranulocytosis
+463	10013002	Dilatation atrial
+464	10031264	Osteonecrosis
+465	10029898	Obsessive-compulsive disorder
+466	10001367	Adrenal insufficiency
+467	10065679	Intentional drug misuse
+468	10012741	Diarrhoea haemorrhagic
+469	10024288	Leukaemia
+470	10037063	Prothrombin time prolonged
+471	10012607	Diabetes mellitus inadequate control
+472	10015832	Extrapyramidal disorder
+473	10012650	Diabetic coma
+474	10059056	Ventricular dysfunction
+475	10003041	Application site erythema
+476	10048921	Alcohol use
+477	10002388	Angina unstable
+478	10061043	Clostridial infection
+479	10037394	Pulmonary haemorrhage
+480	10039163	Right ventricular failure
+481	10028164	Multiple allergies
+482	10066434	Expired drug administered
+483	10048919	Performance status decreased
+484	10049447	Tachyarrhythmia
+485	10049418	Sudden cardiac death
+486	10010235	Computerised tomogram abnormal
+487	10061111	Drug abuser
+488	10028228	Multiple myeloma
+489	10002646	Anorexia
+490	10042101	Stomach discomfort
+491	10051327	Pharmaceutical product complaint
+492	10019831	Hepatocellular damage
+493	10013746	Drug toxicity
+494	10043408	Therapeutic agent toxicity
+495	10049193	Drug exposure during pregnancy
+496	10051082	Therapy non-responder
+497	10028116	Mucosal inflammation
+498	10016029	Face oedema
+499	10064882	Procedural pain
+500	10043224	Tenderness
+501	10059866	Drug resistance
+502	10026865	Mass
+503	10008612	Cholecystitis
+504	10008629	Cholelithiasis
+505	10024670	Liver disorder
+506	10020942	Hypoalbuminaemia
+507	10019744	Hepatitis C
+508	10019851	Hepatotoxicity
+509	10027457	Metastases to liver
+510	10042033	Stevens-Johnson syndrome
+511	10012455	Dermatitis exfoliative
+512	10013700	Drug hypersensitivity
+513	10044223	Toxic epidermal necrolysis
+514	10039085	Rhinitis allergic
+515	10042945	Systemic lupus erythematosus
+516	10021425	Immune system disorder
+517	10060945	Bacterial infection
+518	10061126	Escherichia infection
+519	10035734	Pneumonia staphylococcal
+520	10017533	Fungal infection
+521	10000269	Abscess
+522	10064687	Device related infection
+523	10048038	Wound infection
+524	10061229	Lung infection
+525	10003997	Bacteraemia
+526	10040070	Septic shock
+527	10009137	Chronic sinusitis
+528	10039083	Rhinitis
+529	10046571	Urinary tract infection
+530	10019948	Herpes simplex
+531	10019974	Herpes zoster
+532	10060820	Joint injury
+533	10061225	Limb injury
+534	10016450	Femoral neck fracture
+535	10016454	Femur fracture
+536	10016970	Foot fracture
+537	10041541	Spinal compression fracture
+538	10029155	Nephropathy toxic
+539	10023572	Laceration
+540	10003986	Back injury
+541	10019196	Head injury
+542	10050584	Contusion
+543	10058818	Skin laceration
+544	10064294	Drug dose omission
+545	10048055	Wrong drug administered
+546	10056871	Device failure
+547	10007586	Cardiac murmur
+548	10014363	Electrocardiogram abnormal
+549	10037469	Pulse absent
+550	10005630	Blood lactate dehydrogenase increased
+551	10038153	Red blood cell count decreased
+552	10029368	Neutrophil count increased
+553	10029816	Nuclear magnetic resonance imaging abnormal
+554	10023547	Laboratory test abnormal
+555	10005839	Blood triglycerides increased
+556	10022806	Intraocular pressure increased
+557	10005287	Blood albumin decreased
+558	10037014	Protein total decreased
+559	10059895	Urine output decreased
+560	10061273	Malnutrition
+561	10014418	Electrolyte imbalance
+562	10045170	Tumour lysis syndrome
+563	10012174	Dehydration
+564	10021137	Hypovolaemia
+565	10058097	Metabolic disorder
+566	10061728	Bone lesion
+567	10061368	Spinal disorder
+568	10023232	Joint swelling
+569	10028653	Myositis
+570	10048439	Fibromyalgia
+571	10044684	Trismus
+572	10061159	Foot deformity
+573	10061521	Intervertebral disc disorder
+574	10039722	Scoliosis
+575	10050819	Musculoskeletal chest pain
+576	10016717	Fistula
+577	10018735	Groin pain
+578	10006811	Bursitis
+579	10006187	Breast cancer
+580	10057654	Breast cancer female
+581	10059282	Metastases to central nervous system
+582	10061019	Brain neoplasm
+583	10038423	Renal cyst
+584	10033132	Ovarian cyst
+585	10058467	Lung neoplasm malignant
+586	10004146	Basal cell carcinoma
+587	10040808	Skin cancer
+588	10044390	Transient ischaemic attack
+589	10040744	Sinus headache
+590	10012267	Dementia
+591	10001949	Amnesia
+592	10057668	Cognitive disorder
+593	10013496	Disturbance in attention
+594	10061536	Parkinson's disease
+595	10010071	Coma
+596	10061296	Motor dysfunction
+597	10001497	Agitation
+598	10045555	Unresponsive to stimuli
+599	10020568	Hyperaesthesia
+600	10033553	Palmar-plantar erythrodysaesthesia syndrome
+601	10041466	Speech disorder
+602	10034701	Peroneal nerve palsy
+603	10015037	Epilepsy
+604	10040979	Sleep apnoea syndrome
+605	10061284	Mental disorder
+606	10002847	Anuria
+607	10030302	Oliguria
+608	10029446	Nocturia
+609	10006272	Breast mass
+610	10046910	Vaginal haemorrhage
+611	10061877	Obstructive airways disorder
+612	10035742	Pneumonitis
+613	10001052	Acute respiratory distress syndrome
+614	10035618	Pleurisy
+615	10035759	Pneumothorax
+616	10002974	Apnoea
+617	10038669	Respiratory arrest
+618	10003504	Aspiration
+619	10056342	Pulmonary mass
+620	10062244	Sinus disorder
+621	10012441	Dermatitis bullous
+622	10040831	Skin disorder
+623	10042682	Swelling face
+624	10012431	Dermatitis
+625	10014184	Eczema
+626	10040844	Skin exfoliation
+627	10037884	Rash pruritic
+628	10037153	Psoriasis
+629	10037858	Rash generalised
+630	10001760	Alopecia
+631	10050954	Activities of daily living impaired
+632	10048624	Physical disability
+633	10062132	Tooth extraction
+634	10042609	Surgery
+635	10003210	Arteriosclerosis
+636	10005746	Blood pressure fluctuation
+637	10034636	Peripheral vascular disorder
+638	10047654	Vitreous floaters
+639	10072005	Spinal pain
+640	10069889	Product adhesion issue
+641	10065687	Bone loss
+642	10074903	Intentional product misuse
+643	10022972	Iron deficiency anaemia
+644	10029783	Normochromic normocytic anaemia
+645	10002967	Aplastic anaemia
+646	10065553	Bone marrow failure
+647	10021688	Increased tendency to bruise
+648	10034754	Petechiae
+649	10037549	Purpura
+650	10061590	Blood disorder
+651	10018910	Haemolysis
+652	10028533	Myelodysplastic syndrome
+653	10062506	Heparin-induced thrombocytopenia
+654	10025282	Lymphoedema
+655	10025327	Lymphopenia
+656	10049151	Neutropenic sepsis
+657	10003671	Atrioventricular block
+658	10052840	Cardiac flutter
+659	10042602	Supraventricular extrasystoles
+660	10044066	Torsade de pointes
+661	10020823	Hypertensive heart disease
+662	10013578	Dizziness postural
+663	10018964	Haemoptysis
+664	10002915	Aortic valve incompetence
+665	10003211	Arteriosclerosis coronary artery
+666	10048961	Localised oedema
+667	10001029	Acute pulmonary oedema
+668	10007636	Cardiomyopathy
+669	10048858	Ischaemic cardiomyopathy
+670	10052337	Diastolic dysfunction
+671	10013012	Dilatation ventricular
+672	10049694	Left ventricular dysfunction
+673	10050510	Ventricular hypokinesia
+674	10034484	Pericarditis
+675	10048959	Peripheral swelling
+676	10011891	Deafness neurosensory
+677	10019245	Hearing impaired
+678	10048865	Hypoacusis
+679	10033078	Otitis media
+680	10012671	Diabetic ketoacidosis
+681	10012680	Diabetic neuropathy
+682	10061835	Diabetic nephropathy
+683	10001928	Amenorrhoea
+684	10067584	Type 1 diabetes mellitus
+685	10036067	Polydipsia
+686	10020705	Hyperparathyroidism
+687	10018498	Goitre
+688	10012613	Diabetes mellitus non-insulin-dependent
+689	10013774	Dry eye
+690	10015967	Eye swelling
+691	10015926	Eye haemorrhage
+692	10052140	Eye pruritus
+693	10030942	Optic neuritis
+694	10027646	Miosis
+695	10034960	Photophobia
+696	10038848	Retinal detachment
+697	10038867	Retinal haemorrhage
+698	10005184	Blindness transient
+699	10005186	Blindness unilateral
+700	10047555	Visual field defect
+701	10047543	Visual disturbance
+702	10022016	Inguinal hernia
+703	10036772	Proctalgia
+704	10010003	Colonic polyp
+705	10018292	Gingivitis
+706	10004137	Barrett's oesophagus
+707	10027141	Melaena
+708	10017918	Gastroenteritis viral
+709	10017964	Gastrointestinal infection
+710	10030154	Oesophageal candidiasis
+711	10009895	Colitis ischaemic
+712	10009900	Colitis ulcerative
+713	10011401	Crohn's disease
+714	10013864	Duodenitis
+715	10014866	Enteritis
+716	10014893	Enterocolitis
+717	10021518	Impaired gastric emptying
+718	10021333	Ileus paralytic
+719	10015137	Eructation
+720	10000133	Abnormal faeces
+721	10016100	Faeces discoloured
+722	10000097	Abdominal tenderness
+723	10017999	Gastrointestinal pain
+724	10030180	Oesophageal pain
+725	10006514	Bruxism
+726	10021328	Ileus
+727	10030194	Oesophageal stenosis
+728	10013836	Duodenal ulcer
+729	10022694	Intestinal perforation
+730	10023804	Large intestine perforation
+731	10030201	Oesophageal ulcer
+732	10034341	Peptic ulcer
+733	10022680	Intestinal ischaemia
+734	10033609	Pancreatic carcinoma
+735	10008417	Cheilitis
+736	10024570	Lip swelling
+737	10034835	Pharyngitis
+738	10030094	Odynophagia
+739	10057371	Hypoaesthesia oral
+740	10018291	Gingival swelling
+741	10030110	Oedema mouth
+742	10039424	Salivary hypersecretion
+743	10043951	Tongue disorder
+744	10042727	Swollen tongue
+745	10063889	Oral intake reduced
+746	10051792	Infusion related reaction
+747	10051572	Injection site discolouration
+748	10022061	Injection site erythema
+749	10022066	Injection site haematoma
+750	10022067	Injection site haemorrhage
+751	10022081	Injection site mass
+752	10053425	Injection site swelling
+753	10020843	Hyperthermia
+754	10021113	Hypothermia
+755	10067482	No adverse event
+756	10011953	Decreased activity
+757	10016326	Feeling cold
+758	10034568	Peripheral coldness
+759	10057040	Temperature intolerance
+760	10049460	Abasia
+761	10061619	Deformity
+762	10061819	Disease recurrence
+763	10051301	Exercise tolerance decreased
+764	10029410	Night sweats
+765	10053159	Organ failure
+766	10033546	Pallor
+767	10019909	Hernia
+768	10018691	Granuloma
+769	10061529	Polyp
+770	10018092	Generalised oedema
+771	10013082	Discomfort
+772	10016059	Facial pain
+773	10016750	Flank pain
+774	10062501	Non-cardiac chest pain
+775	10069327	Product quality issue
+776	10069326	Product substitution issue
+777	10043414	Therapeutic response decreased
+778	10043417	Therapeutic response unexpected
+779	10066901	Treatment failure
+780	10011732	Cyst
+781	10054107	Nodule
+782	10028851	Necrosis
+783	10003694	Atrophy
+784	10008614	Cholecystitis acute
+785	10008617	Cholecystitis chronic
+786	10008635	Cholestasis
+787	10061998	Hepatic lesion
+788	10067125	Liver injury
+789	10019670	Hepatic function abnormal
+790	10000804	Acute hepatic failure
+791	10019692	Hepatic necrosis
+792	10006482	Bronchospasm
+793	10020751	Hypersensitivity
+794	10002198	Anaphylactic reaction
+795	10002424	Angioedema
+796	10048908	Seasonal allergy
+797	10018651	Graft versus host disease
+798	10047115	Vasculitis
+799	10062016	Immunosuppression
+800	10017711	Gangrene
+801	10061124	Enterococcal infection
+802	10054263	Helicobacter infection
+803	10061259	Klebsiella infection
+804	10061471	Pseudomonas infection
+805	10051017	Staphylococcal bacteraemia
+806	10056430	Staphylococcal sepsis
+807	10059442	Wound infection staphylococcal
+808	10006473	Bronchopulmonary aspergillosis
+809	10007152	Candidiasis
+810	10064108	Pneumocystis jiroveci pneumonia
+811	10027199	Meningitis
+812	10046914	Vaginal infection
+813	10036410	Postoperative wound infection
+814	10062352	Respiratory tract infection
+815	10006445	Bronchiectasis
+816	10006469	Bronchopneumonia
+817	10024738	Lobar pneumonia
+818	10017553	Furuncle
+819	10042343	Subcutaneous abscess
+820	10001076	Acute sinusitis
+821	10023874	Laryngitis
+822	10037596	Pyelonephritis
+823	10044755	Tuberculosis
+824	10011831	Cytomegalovirus infection
+825	10017076	Fracture
+826	10023204	Joint dislocation
+827	10028200	Multiple fractures
+828	10034156	Pathological fracture
+829	10042212	Stress fracture
+830	10023229	Joint sprain
+831	10002544	Ankle fracture
+832	10016042	Facial bones fracture
+833	10020462	Humerus fracture
+834	10037802	Radius fracture
+835	10048049	Wrist fracture
+836	10029350	Neurotoxicity
+837	10061355	Poisoning
+838	10024453	Ligament sprain
+839	10050031	Muscle strain
+840	10043255	Tendonitis
+841	10029174	Nerve compression
+842	10052897	Nerve injury
+843	10003399	Arthropod bite
+844	10049796	Excoriation
+845	10028224	Multiple injuries
+846	10061481	Renal injury
+847	10064295	Drug administration error
+848	10021597	Inappropriate schedule of drug administration
+849	10064307	Incorrect drug administration duration
+850	10064296	Drug prescribing error
+851	10027091	Medication error
+852	10000381	Accidental overdose
+853	10057867	Multiple drug overdose
+854	10034879	Phlebitis
+855	10057281	Medical device complication
+856	10058046	Post procedural complication
+857	10051077	Post procedural haemorrhage
+858	10057765	Procedural complication
+859	10014391	Electrocardiogram ST segment depression
+860	10014392	Electrocardiogram ST segment elevation
+861	10050380	Electrocardiogram T wave abnormal
+862	10019301	Heart rate decreased
+863	10005728	Blood pressure abnormal
+864	10005734	Blood pressure decreased
+865	10005760	Blood pressure systolic increased
+866	10005833	Blood thyroid stimulating hormone increased
+867	10005814	Blood testosterone decreased
+868	10058267	Troponin increased
+869	10024574	Lipase increased
+870	10061880	Occult blood positive
+871	10000636	Activated partial thromboplastin time prolonged
+872	10022594	International normalised ratio decreased
+873	10051608	Platelet count increased
+874	10014945	Eosinophil count increased
+875	10025256	Lymphocyte count decreased
+876	10029366	Neutrophil count decreased
+877	10001946	Ammonia increased
+878	10060795	Hepatic enzyme increased
+879	10054889	Transaminases increased
+880	10067620	Quality of life decreased
+881	10020060	High density lipoprotein decreased
+882	10005554	Blood glucose abnormal
+883	10018484	Glycosylated haemoglobin increased
+884	10005861	Blood uric acid increased
+885	10053405	Brain natriuretic peptide increased
+886	10005488	Blood culture positive
+887	10011640	Culture urine positive
+888	10005910	Body temperature decreased
+889	10005911	Body temperature increased
+890	10064780	Breath sounds abnormal
+891	10038712	Respiratory rate increased
+892	10013722	Drug level increased
+893	10049177	Drug screen positive
+894	10005395	Blood calcium decreased
+895	10005419	Blood chloride decreased
+896	10005654	Blood magnesium decreased
+897	10005725	Blood potassium increased
+898	10040250	Serum ferritin increased
+899	10023676	Lactic acidosis
+900	10038661	Respiratory acidosis
+901	10014062	Eating disorder
+902	10021654	Increased appetite
+903	10016165	Failure to thrive
+904	10031248	Osteolysis
+905	10020947	Hypocalcaemia
+906	10021027	Hypomagnesaemia
+907	10021058	Hypophosphataemia
+908	10020603	Hypercholesterolaemia
+909	10062190	Metabolic encephalopathy
+910	10047626	Vitamin D deficiency
+911	10047609	Vitamin B12 deficiency
+912	10031149	Osteitis
+913	10052460	Primary sequestrum
+914	10043220	Temporomandibular joint syndrome
+915	10023215	Joint effusion
+916	10037162	Psoriatic arthropathy
+917	10028289	Muscle atrophy
+918	10049816	Muscle tightness
+919	10058920	Restless legs syndrome
+920	10028330	Muscle rigidity
+921	10061246	Intervertebral disc degeneration
+922	10039674	Sciatica
+923	10041540	Spinal column stenosis
+924	10063550	Spondylolisthesis
+925	10053156	Musculoskeletal discomfort
+926	10003983	Back disorder
+927	10048592	Musculoskeletal disorder
+928	10040000	Sensation of heaviness
+929	10042858	Synovial cyst
+930	10043239	Tendon disorder
+931	10055113	Breast cancer metastatic
+932	10062194	Metastasis
+933	10061289	Metastatic neoplasm
+934	10041823	Squamous cell carcinoma
+935	10028980	Neoplasm
+936	10046798	Uterine leiomyoma
+937	10062042	Lung neoplasm
+938	10025650	Malignant melanoma
+939	10008111	Cerebral haemorrhage
+940	10008118	Cerebral infarction
+941	10018985	Haemorrhage intracranial
+942	10051078	Lacunar infarction
+943	10007687	Carotid artery stenosis
+944	10034018	Parosmia
+945	10012305	Demyelination
+946	10028245	Multiple sclerosis
+947	10048393	Multiple sclerosis relapse
+948	10020508	Hydrocephalus
+949	10048962	Brain oedema
+950	10001540	Akathisia
+951	10028035	Movement disorder
+952	10037211	Psychomotor hyperactivity
+953	10013983	Dystonia
+954	10019465	Hemiparesis
+955	10034010	Parkinsonism
+956	10010947	Coordination abnormal
+957	10002948	Aphasia
+958	10029202	Nervous system disorder
+959	10013642	Drooling
+960	10028622	Myoclonus
+961	10060860	Neurological symptom
+962	10034719	Personality change
+963	10043431	Thinking abnormal
+964	10017062	Formication
+965	10040026	Sensory disturbance
+966	10040030	Sensory loss
+967	10002953	Aphonia
+968	10013952	Dysphonia
+969	10021630	Incoherent
+970	10007697	Carpal tunnel syndrome
+971	10018659	Grand mal convulsion
+972	10041347	Somnambulism
+973	10020765	Hypersomnia
+974	10050219	Lumbar radiculopathy
+975	10067967	Brain injury
+976	10008096	Cerebral atrophy
+977	10029328	Neuropathy
+978	10039906	Seizure
+979	10000234	Abortion spontaneous
+980	10036590	Premature baby
+981	10016275	Fear
+982	10012218	Delirium
+983	10012239	Delusion
+984	10057667	Bipolar disorder
+985	10054196	Affect lability
+986	10064862	Frustration
+987	10001443	Affective disorder
+988	10002942	Apathy
+989	10049666	Homicidal ideation
+990	10041243	Social avoidant behaviour
+991	10061422	Abnormal behaviour
+992	10012335	Dependence
+993	10061920	Psychotic disorder
+994	10039626	Schizophrenia
+995	10040477	Sexual dysfunction
+996	10010144	Completed suicide
+997	10061011	Bladder disorder
+998	10048302	Tubulointerstitial nephritis
+999	10029151	Nephropathy
+1000	10001017	Acute prerenal failure
+1001	10003885	Azotaemia
+1002	10020524	Hydronephrosis
+1003	10046542	Urinary hesitation
+1004	10037032	Proteinuria
+1005	10036142	Polyuria
+1006	10038490	Renal pain
+1007	10069339	Acute kidney injury
+1008	10006298	Breast pain
+1009	10027514	Metrorrhagia
+1010	10027313	Menorrhagia
+1011	10004446	Benign prostatic hyperplasia
+1012	10046901	Vaginal discharge
+1013	10006458	Bronchitis chronic
+1014	10035669	Pneumonia aspiration
+1015	10025080	Lung consolidation
+1016	10037410	Pulmonary infarction
+1017	10021133	Hypoventilation
+1018	10038687	Respiratory distress
+1019	10043089	Tachypnoea
+1020	10041807	Sputum discoloured
+1021	10037833	Rales
+1022	10039109	Rhonchi
+1023	10052251	Respiratory tract congestion
+1024	10008589	Choking
+1025	10062717	Increased upper airway secretion
+1026	10041232	Sneezing
+1027	10034829	Pharyngeal oedema
+1028	10020649	Hyperkeratosis
+1029	10013786	Dry skin
+1030	10037876	Rash papular
+1031	10034972	Photosensitivity reaction
+1032	10052576	Pruritus generalised
+1033	10037868	Rash maculo-papular
+1034	10011985	Decubitus ulcer
+1035	10000496	Acne
+1036	10064265	Skin haemorrhage
+1037	10016215	Family stress
+1038	10048948	Bedridden
+1039	10050778	Walking aid user
+1040	10047920	Wheelchair user
+1041	10061105	Dialysis
+1042	10018875	Haemodialysis
+1043	10006924	Caesarean section
+1044	10002882	Aortic aneurysm
+1045	10065558	Aortic arteriosclerosis
+1046	10002906	Aortic stenosis
+1047	10057320	Venous insufficiency
+1048	10022562	Intermittent claudication
+1049	10062585	Peripheral arterial occlusive disease
+1050	10034576	Peripheral ischaemia
+1051	10031127	Orthostatic hypotension
+1052	10047249	Venous thrombosis
+1053	10043595	Thrombophlebitis superficial
+1054	10052076	Haemodynamic instability
+1055	10015488	Essential hypertension
+1056	10046996	Varicose vein
+1057	10072268	Drug-induced liver injury
+1058	10071408	Maternal exposure during pregnancy
+1059	10051589	Large intestine polyp
+1060	10022052	Injection site bruising
+1061	10013682	Drug effect incomplete
+1062	10054236	Clostridium difficile infection
+1063	10073513	Exposure during pregnancy
+1064	10051076	Prescribed overdose
+1065	10074170	Candida infection
+1066	10018687	Granulocytopenia
+1067	10042434	Sudden death
+1068	10061129	Eye movement disorder
+1069	10017788	Gastric haemorrhage
+1070	10054787	Haemorrhoidal haemorrhage
+1071	10003053	Application site pruritus
+1072	10029282	Neuroleptic malignant syndrome
+1073	10048010	Withdrawal syndrome
+1074	10023129	Jaundice cholestatic
+1075	10050904	Cytolytic hepatitis
+1076	10019727	Hepatitis acute
+1077	10040872	Skin infection
+1078	10013659	Drug administered at inappropriate site
+1079	10064304	Incorrect route of drug administration
+1080	10021576	Inadequate analgesia
+1081	10005470	Blood creatine phosphokinase increased
+1082	10017413	Full blood count decreased
+1083	10058911	General physical condition abnormal
+1084	10011372	Creatinine renal clearance decreased
+1085	10005619	Blood iron decreased
+1086	10035155	Plantar fasciitis
+1087	10027458	Metastases to lung
+1088	10050040	VIIth nerve paralysis
+1089	10019468	Hemiplegia
+1090	10036105	Polyneuropathy
+1091	10041962	Status epilepticus
+1092	10015535	Euphoric mood
+1093	10038678	Respiratory depression
+1094	10062599	Arterial occlusive disease
+1095	10071404	Foetal exposure during pregnancy
+1096	10061256	Ischaemic stroke
+1097	10002199	Anaphylactic shock
+1098	10005758	Blood pressure systolic decreased
+1099	10033799	Paralysis
+1100	10008796	Chromaturia
+1101	10051576	Generalised erythema
+1102	10043521	Throat irritation
+1103	10020578	Hyperbilirubinaemia
+1104	10040639	Sick sinus syndrome
+1105	10047290	Ventricular fibrillation
+1106	10027730	Mitral valve prolapse
+1107	10051592	Acute coronary syndrome
+1108	10007556	Cardiac failure acute
+1109	10056370	Congestive cardiomyopathy
+1110	10018429	Glucose tolerance impaired
+1111	10015929	Eye infection
+1112	10015946	Eye irritation
+1113	10025409	Macular degeneration
+1114	10045458	Umbilical hernia
+1115	10034536	Periodontal disease
+1116	10017367	Frequent bowel movements
+1117	10020039	Hiccups
+1118	10028024	Mouth haemorrhage
+1119	10067152	Oral herpes
+1120	10013789	Dry throat
+1121	10001480	Ageusia
+1122	10034844	Pharyngolaryngeal pain
+1123	10022094	Injection site rash
+1124	10022107	Injection site urticaria
+1125	10022112	Injection site warmth
+1126	10061549	Sensation of foreign body
+1127	10051379	Systemic inflammatory response syndrome
+1128	10012794	Difficulty in walking
+1129	10019731	Hepatitis B
+1130	10019697	Hepatic neoplasm malignant
+1131	10012434	Dermatitis allergic
+1132	10015218	Erythema multiforme
+1133	10023845	Laryngeal oedema
+1134	10030338	Onychomycosis
+1135	10053777	Meniscus lesion
+1136	10043827	Tibia fracture
+1137	10061161	Pelvic fracture
+1138	10023149	Jaw fracture
+1139	10009245	Clavicle fracture
+1140	10058121	Poor quality drug administered
+1141	10007815	Catheterisation cardiac
+1142	10064198	Blood count abnormal
+1143	10049187	Red blood cell sedimentation rate increased
+1144	10024910	Low density lipoprotein increased
+1145	10049470	Bone density decreased
+1146	10014408	Electroencephalogram abnormal
+1147	10056812	Body height decreased
+1148	10053123	Protein urine present
+1149	10005396	Blood calcium increased
+1150	10020869	Hypertriglyceridaemia
+1151	10018627	Gout
+1152	10023230	Joint stiffness
+1153	10021118	Hypotonia
+1154	10028335	Muscle spasticity
+1155	10023509	Kyphosis
+1156	10025005	Lumbar spinal stenosis
+1157	10061224	Limb discomfort
+1158	10027468	Metastases to spine
+1159	10042868	Synovitis
+1160	10008120	Cerebral ischaemia
+1161	10054786	Skin burning sensation
+1162	10034620	Peripheral sensory neuropathy
+1163	10022035	Initial insomnia
+1164	10057666	Anxiety disorder
+1165	10043268	Tension
+1166	10036316	Post-traumatic stress disorder
+1167	10003736	Attention deficit/hyperactivity disorder
+1168	10061472	Psychiatric symptom
+1169	10043528	Throat tightness
+1170	10027566	Micturition urgency
+1171	10013935	Dysmenorrhoea
+1172	10051482	Prostatomegaly
+1173	10037437	Pulmonary thrombosis
+1174	10039509	Scab
+1175	10040865	Skin hyperpigmentation
+1176	10024861	Loss of employment
+1177	10020096	Hip arthroplasty
+1178	10023469	Knee arthroplasty
+1179	10063797	Cataract operation
+1180	10052086	Coronary arterial stent insertion
+1181	10061255	Ischaemia
+1182	10051128	Blood pressure inadequately controlled
+1183	10061169	Embolism
+1184	10039801	Second primary malignancy
+1185	10070488	Upper-airway cough syndrome
+1186	10052293	Haemorrhagic anaemia
+1187	10018916	Haemolytic anaemia
+1188	10067286	Left atrial dilatation
+1189	10052137	Ear discomfort
+1190	10013559	Diverticulum intestinal
+1191	10022062	Injection site extravasation
+1192	10048709	Urosepsis
+1193	10037888	Rash pustular
+1194	10003084	Areflexia
+1195	10027590	Middle insomnia
+1196	10011971	Decreased interest
+1197	10021151	Hysterectomy
+1198	10040108	Serotonin syndrome
+1199	10024968	Lower respiratory tract infection
+1200	10010254	Concussion
+1201	10007625	Cardiogenic shock
+1202	10017826	Gastric ulcer haemorrhage
+1203	10020852	Hypertonia
+1204	10016338	Feeling jittery
+1205	10003674	Atrioventricular block first degree
+1206	10024119	Left ventricular failure
+1207	10051118	Drug ineffective for unapproved indication
+1208	10062211	Neck injury
+1209	10062546	Thrombosis in device
+1210	10016581	Fibrin D dimer increased
+1211	10062189	Vitamin D decreased
+1212	10018358	Glomerular filtration rate decreased
+1213	10054964	Dysphemia
+1214	10022524	Intentional self-injury
+1215	10002329	Aneurysm
+1216	10058919	Drug rash with eosinophilia and systemic symptoms
+1217	10014950	Eosinophilia
+1218	10007610	Cardiac tamponade
+1219	10053198	Inappropriate antidiuretic hormone secretion
+1220	10003054	Application site rash
+1221	10016330	Feeling drunk
+1222	10040914	Skin reaction
+1223	10057970	Toxic skin eruption
+1224	10019114	Hand fracture
+1225	10053615	Thermal burn
+1226	10005464	Blood creatine increased
+1227	10020903	Hyperuricaemia
+1228	10037779	Radiculopathy
+1229	10043169	Tearfulness
+1230	10035600	Pleural fibrosis
+1231	10040893	Skin necrosis
+1232	10061216	Infarction
+1233	10073508	Drug reaction with eosinophilia and systemic symptoms
+1234	10008499	Chest X-ray abnormal
+1235	10029547	Non-Hodgkin's lymphoma
+1236	10003677	Atrioventricular block second degree
+1237	10006582	Bundle branch block right
+1238	10048620	Intracardiac thrombus
+1239	10014665	Endocarditis
+1240	10051093	Cardiopulmonary failure
+1241	10023567	Labyrinthitis
+1242	10028521	Mydriasis
+1243	10034962	Photopsia
+1244	10060954	Abdominal hernia
+1245	10065612	Loose tooth
+1246	10033649	Pancreatitis chronic
+1247	10061318	Oesophageal disorder
+1248	10003011	Appendicitis
+1249	10056325	Faecaloma
+1250	10011376	Crepitations
+1251	10061577	Ulcer haemorrhage
+1252	10019660	Hepatic encephalopathy
+1253	10067467	Nephrogenic systemic fibrosis
+1254	10002473	Angioneurotic oedema
+1255	10052238	Escherichia urinary tract infection
+1256	10061372	Streptococcal infection
+1257	10000369	Accident
+1258	10064354	Drug dispensing error
+1259	10048031	Wound dehiscence
+1260	10005737	Blood pressure diastolic decreased
+1261	10005328	Blood amylase increased
+1262	10036975	Prostatic specific antigen increased
+1263	10050845	Cardioactive drug level increased
+1264	10049040	Weight fluctuation
+1265	10056291	Fluid intake reduced
+1266	10031298	Osteosclerosis
+1267	10028300	Muscle disorder
+1268	10028309	Muscle haemorrhage
+1269	10027145	Melanocytic naevus
+1270	10005003	Bladder cancer
+1271	10038389	Renal cancer
+1272	10067946	Renal cell carcinoma
+1273	10061873	Non-small cell lung cancer
+1274	10014581	Encephalitis
+1275	10061744	Carotid artery disease
+1276	10008196	Cerebrovascular disorder
+1277	10021021	Hypokinesia
+1278	10051290	Central nervous system lesion
+1279	10033666	Panic disorder
+1280	10020910	Hyperventilation
+1281	10057852	Nicotine dependence
+1282	10029164	Nephrotic syndrome
+1283	10006313	Breast tenderness
+1284	10035623	Pleuritic pain
+1285	10000614	Actinic keratosis
+1286	10033474	Pain of skin
+1287	10040849	Skin fissures
+1288	10050637	Skin tightness
+1289	10040880	Skin irritation
+1290	10028694	Nail disorder
+1291	10067450	Endotracheal intubation
+1292	10048561	Stent placement
+1293	10011077	Coronary artery bypass
+1294	10043570	Thrombophlebitis
+1295	10020802	Hypertensive crisis
+1296	10027339	Menstruation irregular
+1297	10029864	Nystagmus
+1298	10019754	Hepatitis cholestatic
+1299	10019973	Herpes virus infection
+1300	10007598	Cardiac pacemaker insertion
+1301	10060946	Pneumonia bacterial
+1302	10019837	Hepatocellular injury
+1303	10022079	Injection site irritation
+1304	10049771	Shock haemorrhagic
+1305	10019016	Haemorrhagic stroke
+1306	10016060	Facial palsy
